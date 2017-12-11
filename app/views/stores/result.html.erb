@@ -1,0 +1,93 @@
+<h1>Results</h1>
+
+<table>
+  <tr class="small_labels">
+    <th>Site ID</th>
+    <th>Address</th>
+    <th>City</th>
+    <th>State</th>
+    <th>Active</th>
+  </tr>
+  <tr class="data">
+    <td><%= @store.site_id %></td>
+    <td><%= @store.address %></td>
+    <td><%= @store.city %></td>
+    <td><%= @store.state %></td>
+    <td><%= @store.active %></td>
+  </tr>
+  <tr class="small_labels">
+    <th>Store Phone</th>
+    <th>Store Email</th>
+    <th>Co-Op or Dealer</th>
+    <th>Market Manager or DBM</th>
+    <th>Manager Contact</th>
+  </tr>
+  <tr class="data">
+    <td><%= @store.phone %></td>
+    <td><%= @store.email %></td>
+    <td><%= @store.co_de %></td>
+    <td><%= @store.mm_dbm %></td>
+    <td><%= @store.manager_phone %></td>
+  </tr>
+  <tr class="small_labels">
+    <th>Region</th>
+    <th>Fuel Director</th>
+    <th>Fuel Director Contact</th>
+    <th>Fuel Analyst</th>
+    <th>Fuel Analyst Contact</th>
+  </tr>
+  <tr class="data">
+    <td><%= @region.name %></td>
+    <td><%= @region.fd %></td>
+    <td><%= @region.fd_email %></td>
+    <td><%= @region.fa %></td>
+    <td><%= @region.fa_contact %></td>
+  </tr>
+  <tr class="small_labels">
+    <th>Carrier ID</th>
+    <th>Carrier</th>
+    <th>Carrier Phone</th>
+    <th>Carrier Email</th>
+    <th>Operations Manager</th>
+    <th>Manager Contact</th>
+  </tr>
+  <tr class="data">
+    <td><%= @carrier.name %></td>
+    <td><%= @carrier.description %></td>
+    <td><%= @carrier.phone %></td>
+    <td><%= @carrier.email %></td>
+    <td><%= @carrier.ops_manager %></td>
+    <td><%= @carrier.manager_contact %></td>
+  </tr>
+  <tr class="small_labels">
+    <th>Shipper ID</th>
+    <th>Shipper</th>
+    <th>City</th>
+    <th>State</th>
+    <th>Miles From Store</th>
+    <th>Supplier</th>
+    <th>Brand</th>
+  </tr>
+  <tr class="data">
+    <td><%= @shipper.name %></td>
+    <td><%= @shipper.description %></td>
+    <td><%= @shipper.city %></td>
+    <td><%= @shipper.state %></td>
+    <td><%= @store.miles %></td>
+    <td><%= @store.supplier %></td>
+    <td><%= @store.brand %></td>
+  </tr>
+  <tr class="small_labels">
+    <th>Loading Numbers</th>
+  </tr>
+  <tr class="data">
+    <td><%= @store.loading_numbers %></td>
+  </tr>
+  <tr class="small_labels">
+    <th>Notes</td>
+  </tr>
+  <tr class="data">
+    <td><%= @store.notes %></td>
+  </tr>
+</table>
+

@@ -1,0 +1,384 @@
+name,description,address,city,state,zip,tcn
+CHTTMAG2,Magellan Terminals Holdings LP,4326 Jersey Pike,Chattanooga,TN,37401,T-62-TN-2208
+CHTTNKM,Kinder Morgan Southeast Terminals LLC,4716 Bonny Oaks Drive,Chattanooga,TN,37401,T-62-TN-2201
+CHTTNMA1,Magellan Terminals Holdings LP,4326 Jersey Pike,Chattanooga,TN,37401,T-62-TN-2208
+CHTTNMA2,Magellan Terminals Holdings LP,4235 Jersey Pike,Chattanooga,TN,37401,T-62-TN-2200
+CINOHKM,Kinder Morgan Liquids Terminals LLC,930 Tennessee Avenue,Cincinnati,OH,45201,T-31-OH-3104
+CINOHMPL,MPLX Cincinnati,4015 River Road,Cincinnati,OH,45201,T-31-OH-3100
+CITVIC,CITGO - Vicksburg,1585 Haining Rd,Vicksburg,MS,39180,T-64-MS-2419
+CLEOHBPP,BP Products North America Inc,5241 Secondary Road,Cleveland,OH,44101,T-34-OH-3175
+COBNLIMP,IMPERIAL CORNERBROOK,730 West Connors Road,CORNER BROOK,NL,NULL,NULL
+COBNLULT,ULTRAMAR CORNER BROOK,13 leggos ave,CORNER BROOK,NL,NULL,NULL
+COLCAKM,"SFPP, LP",2359 S. Riverside Avenue,Bloomington,CA,92316,T-33-CA-4757
+COLGAKM,Kinder Morgan Southeast Terminals LLC,5131 Miller Road,COLUMBUS,GA,NULL,T-58-GA-2520
+COLGAMAR,MPLX Columbus,5030 Miller Road,COLUMBUS,GA,NULL,T-58-GA-2523
+COLGAOMG,"Omega Partners III, LLC",5225 Miller Road,COLUMBUS,GA,NULL,T-58-GA-2522
+COLMSKM,Kinder Morgan Southeast Terminals LLC,31 Kola Road,Collins,MS,39428,T-64-MS-2402
+COLMSMOT,Motiva Enterprises LLC,49 So. & Kola Rd.,Collins,MS,39428,T-64-MS-2404
+COLOHBUC,"Buckeye Terminals, LLC - Columbus",303 North Wilson Road,Columbus,OH,43085,T-31-OH-3105
+COLOHMEL,MPLX Columbus (East),3855 Fisher Road,Columbus,OH,43085,T-31-OH-3101
+ALBGAMAG,Magellan Terminals Holdings LP,1722 W Oakridge Dr,Albany,GA,31701,T-58-GA-2501
+ALBNMP66,Phillips 66 PL - Albuquerque,6356 Desert Road SE,Albuquerque,NM,87101,T-85-NM-4254
+ALBNMVEC,South Florida Materials Corp dba Vecenergy,3200 Broadway SE,Albuquerque,NM,87101,T-85-NM-4251
+ALBNMWES,Western Refining - Albuquerque,3209 Broadway Southeast,Albuquerque,NM,87101,T-85-NM-4255
+AMLTXSHM,"Nustar Logistics LP - Amarillo, TX",4200 West Cliffside,Amarillo,TX,79101,T-75-TX-2653
+ANACAEXX,Torrance Logistics Company,1477 Jefferson,Anaheim,CA,92801,T-33-CA-4750
+APXNCMOT,Motiva Enterprises LLC,2232 Ten-Ten.  Road,Apex,NC,27502,T-56-NC-2027
+ARCLACHV,"Chevron USA, Inc.- Arcadia",Highway 80 East,Arcadia,LA,71001,T-72-LA-2351
+ARCLAEXX,Sunoco Partners Marketing & Terminals LP,Highway 80 East,Arcadia,LA,71001,T-72-LA-2353
+ARGILKM,Kinder Morgan Liquids Terminals LLC,8500 West 68th Street,Argo,IL,60501,T-36-IL-3305
+ARGOILEQ,"Buckeye Terminals, LLC - Argo",8600 West 71st. Street,Bedford Park,IL,60499,T-36-IL-3315
+ASHASH,"Growmark, Inc.",Rt 49 South,Ashkum,IL,60911,T-37-IL-3364
+ASTNTXFH,"Flint Hills Resources, LP-Austin",9011 Johnny Morris Rd,Austin,TX,73301,T-74-TX-2706
+ATHGAKIN,Kinder Morgan Southeast Terminals LLC,3460 Jefferson Road,Athens,GA,30601,T-58-GA-2506
+ATHGAKM,Kinder Morgan Southeast Terminals LLC,3460 Jefferson Road,Athens,GA,30601,T-58-GA-2506
+ATHGATRS,TransMontaigne - Athens,3450 Jefferson Road,Athens,GA,30601,T-58-GA-2508
+AURCOMAG,"Magellan Pipeline Company, L.P.",15000 E. Smith Rd.,AURORA,CO,80010,T-84-CO-4100
+BAINGATR,TransMontaigne - Bainbridge,1909 East Shotwell Street,Bainbridge,GA,31717,T-58-GA-2515
+BAMGAMAG,Magellan Terminals Holdings LP,2400 Nabors Road,Birmingham,AL,35201,T-63-AL-2309
+BANGAMOT,Motiva Enterprises LLC,1803 East Shotwell St.,Bainbridge,GA,31717,T-58-GA-2514
+BEATXMOT,Motiva Enterprises LLC,9406 West Port Arthur Rd,Beaumont,TX,77701,T-76-TX-2783
+BEATXSUN,Sunoco Partners Marketing & Terminals LP,15651 W. Port Arthur Rd.,Beaumont,TX,77701,T-76-TX-2798
+BELSCBUC,"Buckeye Terminals, LLC - Belton",Hwy 20 North,Belton,SC,29627,T-57-SC-2051
+BELTSCBU,"Buckeye Terminals, LLC - Belton",Hwy 20 North,Belton,SC,29627,T-57-SC-2051
+BELTSCMA,MPLX Belton,14315 State Rt. 20,Belton,SC,29627,T-57-SC-2053
+BLOCASFP,"SFPP, LP",2359 S. Riverside Avenue,Bloomington,CA,92316,T-33-CA-4757
+BOSLATEP,ERPC Shreveport Area Truck Rack,4731 Viking Drive,Bossier City,LA,71111,T-72-LA-2394
+BRGLAEXX,ExxonMobil Oil Corp.,3329 Scenic Highway,Baton Rouge,LA,70801,T-72-LA-2358
+BRMALAL,Allied Energy Corporation,2700 Ishkooda Wenonah Rd.,Birmingham,AL,35201,T-72-AL-2343
+BRMALMAR,MPLX Birmingham,2704 28th St Southwest,Birmingham,AL,35201,T-63-AL-2306
+BRMGALSE,"Buckeye Terminals, LLC - Birmingham",1600 Mims Ave SW,Birmingham,AL,35201,T-63-AL-2312
+BTIABPOL,"Buckeye Terminals, LLC - Bettendorf",75 South 31st Street,Bettendorf,IA,52722,T-42-IA-3450
+BUCTOL,"Buckeye Terminals, LLC - Toledo",2450 Hill Avenue,Toledo,OH,43601,T-34-OH-3148
+BUDATXFH,Mustang Ridge Fuels Terminal,1165 East Lone Star Dr.   ,Buda,TX,78610,T-74-TX-2758
+CAHILCO,Phillips 66 PL - E. St.  Louis,3300 Mississippi Ave,Cahokia,IL,62206,T-37-IL-3366
+CALABIOL,IOL CALGARY,"9911 Barlow Trail, Calgary",CALGARY,AB,T2X 3R7,NULL
+CANOHBUC,"Buckeye Terminals, LLC - Canton",807 Hartford Southeast,Canton,OH,44701,T-34-OH-3143
+CANOHMPX,MPLX Canton,2419 Gambrinus Ave  ,Canton,OH,44701,T-34-OH-3140
+CARCAKM,Kinder Morgan Tank Storage Terminal LLC,2000 East Sepulveda Blvd.,Carson,CA,90745,T-33-CA-4751
+CCFLSEA,Seaport Canaveral,555 Hwy 401,Cape Canaveral,FL,32920,T-59-FL-2680
+CCTXCITG,CITGO - Corpus Christi,1308 Oak Park Street,Corpus Christi,TX,78401,T-74-TX-2716
+CCTXFH,"Flint Hills Resources, LP-Corpus Christi",2825 Suntide Road,Corpus Christi,TX,78401,T-74-TX-2721
+CCTXVALR,Valero Refining Co. - Corpus Christi,5900 Up River Rd.,Corpus Christi,TX,78401,T-74-TX-2714
+CHATGAKM,Kinder Morgan Liquids Terminals LLC,3132 Parrott Avenue N W,Atlanta,GA,30301,T-58-GA-2511
+CHATMAG1,Magellan Terminals Holdings LP,4235 Jersey Pike,Chattanooga,TN,37401,T-62-TN-2200
+CHATNLTC,Lincoln Terminal Company,4211 Cromwell Rd.,Chattanooga,TN,37401,T-62-TN-2207
+CHATTCIT,CITGO - Chattanooga,4233 Jersey Pike,Chattanooga,TN,37401,T-62-TN-2202
+CHATTN,CITGO - Chattanooga,4233 Jersey Pike,Chattanooga,TN,37401,T-62-TN-2202
+CHEVABUC,"Buckeye Terminals, LLC - Chesapeake",4030 Buell Street,Chesapeake,VA,23320,T-54-VA-1650
+CHEVACIT,CITGO - Chesapeake,110 Freeman Street,Chesapeake,VA,23320,T-54-VA-1652
+CHEVAKM,Kinder Morgan Southeast Terminals LLC,4115 Buell Street,Chesapeake,VA,23320,T-54-VA-1654
+CHEVATRA,TransMontaigne - Norfolk,7600 Halifax Lane,Chesapeake,VA,23320,T-54-VA-1674
+CHLILBE,"Buckeye Terminals, LLC - East Chicago",400 East Columbus Dr,East Chicago,IN,46312,T-35-IN-3225
+CHLNCCIT,CITGO - Charlotte,7600 Mount Holly Road,Charlotte,NC,28201,T-56-NC-2001
+CHLNCKIN,Kinder Morgan Southeast Terminals LLC,6801 Freedom Dr,THRIFT,NC,28214,T-56-NC-2000
+CHLNCKM,Kinder Morgan Southeast Terminals LLC,502 Tom Sadler Rd.,Charlotte,NC,28201,T-56-NC-2004
+CHLNCMA,Magellan Terminals Holdings LP,7924 Mt. Holly Rd.,Charlotte,NC,28201,T-56-NC-2024
+CHLNCMAE,MPLX Charlotte (East),7401 Old Mount Holly Road,Charlotte,NC,28201,T-56-NC-2008
+CHLNCMAG,Magellan Terminals Holdings LP,7145 Mount Holly Rd.,Charlotte,NC,28201,T-56-NC-2006
+CHLNCMAR,MPLX Charlotte (West),8035 Mt. Holly Rd.,Charlotte,NC,28201,T-56-NC-2002
+CHLNCMOS,Motiva Enterprises LLC,6851 Freedom Dr.,Charlotte,NC,28201,T-56-NC-2005
+CHLNCMOT,Motiva Enterprises LLC,410 Tom Sadler Rd.,Charlotte,NC,28201,T-56-NC-2007
+CHMLAMOB,"Chalmette Refining, LLC",1700 Paris Rd Gate 50,Chalmette,LA,70043,T-72-LA-2360
+CHMPILMA,MPLX Champaign,511 S. Staley Road,Champaign,IL,61820,T-37-IL-3358
+CHPVACIT,CITGO - Chesapeake,110 Freeman Street,Chesapeake,VA,23320,T-54-VA-1652
+CHRNCMAP,MPLX Charlotte (West),8035 Mt. Holly Rd.,Charlotte,NC,28201,T-56-NC-2002
+CHRPEIRV,IRVING CHARLOTTETOWN MARINE,10 Riverside Dr,Charlottetown,PE,NULL,NULL
+CHRSCHSS,"Buckeye Terminals, LLC - North Charleston",5150 Virginia Ave.,North Charleston,SC,29405,T-57-SC-2064
+CHRSCKIM,"Kinder Morgan Operating LP ""C""",1500 Greenleaf St.,Charleston,SC,29401,T-57-SC-2054
+COLOHMPL,MPLX Columbus (West),4125 Fisher Rd,Columbus,OH,43085,T-31-OH-3112
+COLOHSUN,Sunoco Partners Marketing & Terminals LP,3866 Fisher Rd,Columbus,OH,43085,T-31-OH-3111
+COMCOSHM,"NuStar Logistics, L. P. - Denver",3601 East 56th Street,Commerce City,CO,80022,T-84-CO-4103
+CONROC,Kinder Morgan Liquids Terminals LLC,100 East Standard Oil Road,Rochelle,IL,61068,T-36-IL-3303
+CORPABUC,"Buckeye Pipe Holdings, L.P. - Coraopolis",520 University Blvd,Coraopolis,PA,15108,T-25-PA-1760
+COVKYMPL,MPLX Covington,230 East 33rd Street,Covington,KY,41011,T-61-KY-3263
+CSPCONUS,"NuStar Logistics, L. P. - Colorado Springs",7810 Drennan,Colorado Springs,CO,80901,T-84-CO-4108
+CSPCOP66,"NuStar Logistics, L. P. - Colorado Springs",7810 Drennan,Colorado Springs,CO,80901,T-84-CO-4108
+CUYOHBUC,"Buckeye Terminals, LLC - Cuyahoga Hts.",4850 E 49th Street,Cuyahoga Heights,OH,44127,T-34-OH-3144
+CVTLAMOT,Motiva Enterprises LLC,Louisiana Street,Convent,LA,70723,T-72-LA-2361
+DABFLMCD,South Florida Materials Corp dba Vecenergy,1200 S. E. 32nd Street,Dania,FL,33004,T-59-FL-2679
+DALTXMAG,"Magellan Pipeline Company, L.P.",4200 Singleton Boulevard,Dallas,TX,75201,T-75-TX-2661
+DARNSIRV,IRVING HALIFAX HARBOUR MARINE,"500, Pleasant St ",DARTMOUTH,NS,B2Y 3S5,NULL
+DAYDAY,"Buckeye Terminals, LLC - Dayton",801 Brandt Pike,Dayton,OH,45401,T-31-OH-3115
+DAYOHBUC,"Buckeye Terminals, LLC - Dayton",801 Brandt Pike,Dayton,OH,45401,T-31-OH-3115
+DAYOHCIT,CITGO Petroleum Corporation - Dayton,1800 Farr Drive,Dayton,OH,45401,T-31-OH-3121
+DAYOHKID,Kinder Morgan Liquids Terminals LLC,621 Brandt Pike,Dayton,OH,45401,T-31-OH-3106
+DAYOHSUN,Sunoco Partners Marketing & Terminals LP,1708 Farr Drive,Dayton,OH,45401,T-31-OH-3117
+DELPASUN,Sunoco Partners Marketing & Terminals LP,1734 Old Route 66 ,Delmont,PA,15626,T-25-PA-1761
+DETMIMAR,MPLX Detroit,12700 Toronto St.,Detroit,MI,48201,T-38-MI-3015
+DETMIWFP,Waterfront Petroleum Terminal Co.,5431 W Jefferson,Detroit,MI,48201,T-38-Mi-3047
+DORGABP,Kinder Morgan Liquids Terminals LLC,6430 New Peachtree Road,Doraville,GA,30340,T-58-GA-2526
+DORGACIT,CITGO - Doraville,3877 Flowers Drive,Doraville,GA,30340,T-58-GA-2529
+DORGAMAR,MPLX Doraville,6293 New Peachtree Road,Doraville,GA,30340,T-58-GA-2532
+DPILEXX,ExxonMobil Oil Corp.,2312 Terminal Drive,Arlington Heights,IL,60004,T-36-IL-3311
+DPLNILEQ,Shell Oil Products US,1605 E. Algonquin Road,Des Plaines,IL,60016,T-36-IL-3316
+DPLNILEX,ExxonMobil Oil Corp.,2312 Terminal Drive,Arlington Heights,IL,60004,T-36-IL-3311
+DPLNILMA,MPLX Mt. Prospect,3231 Busse Road,Arlington Heights,IL,60005,T-36-IL-3307
+DRUFLMAR,MPLX Jacksonville,2101 Heckscher Dr,DRUMMOND POINT,FL,NULL,T-59-FL-2106
+DRVGAKM2,Kinder Morgan Liquids Terminals LLC,4064 Winters Chapel Rd,Doraville,GA,30340,T-58-GA-2534
+DRVGAMOT,Motiva Enterprises LLC,4127 Winters Chapel Rd.,Doraville,GA,30340,T-58-GA-2510
+DUOHCIT,CITGO - Dublin,6433 Cosgray Road,Dublin,OH,43016,T-31-OH-3120
+DUPCOMAG,"Magellan Pipeline Company, L.P.",8160 Krameria,Dupont,CO,80024,T-84-CO-4105
+EDBTXNUS,"NuStar Logistics, L. P. - Edinburg",222 W. Ingle Rd.,Edinburg,TX,78539,T-74-TX-2700
+EDMABIOL,IOL EDMONTON,3910 92 Avenue,EDMONTON,AB,NULL,NULL
+EFGILEQ,"Buckeye Terminals, LLC - Effingham",18264 N US Hwy 45,Effingham,IL,62401,T-37-IL-3368
+ELDARDL,Lion Oil Co. -  El Dorado,1000 McHenry,El Dorado,AR,71730,T-71-AR-2451
+ELPTXCHV,Western Refining - El Paso,6501 Trowbridge,El Paso,TX,79901,T-74-TX-2724
+ELPTXVAL,"NuStar Logistics, L. P. - El Paso",4200 Justice Road,El Paso,TX,79901,T-74-TX-2750
+ELPTXW,Western Refining - El Paso,6501 Trowbridge,El Paso,TX,79901,T-74-TX-2724
+EVNINMAP,MPLX Evansville,2500 Broadway,Evansville,IN,47701,T-35-IN-3207
+FAYNCMOT,Motiva Enterprises LLC,992 Shaw Mill Road,Fayetteville,NC,28301,T-56-NC-2009
+FERMICIT,CITGO - Ferrysburg,524 Third Street,Ferrysburg,MI,49409,T-38-MI-3008
+FLJAXBUC,"Buckeye Terminals, LLC - Jacksonville",2617 Heckscher Drive,Jacksonville,FL,32099,T-59-FL-2102
+FLJAXCP,Center Point Terminal - Jacksonville,3101 Talley Rand Ave ,Jacksonville,FL,32099,T-59-FL-2681
+FLJAXCP2,Center Point Terminal - Jacksonville,3101 Talley Rand Ave ,Jacksonville,FL,32099,T-59-FL-2681
+FLJAXMAR,MPLX Jacksonville,2101 Heckscher Dr,Jacksonville,FL,32099,T-59-FL-2106
+FLPTEBP,Motiva Enterprises LLC,1180 Spangler Road,Fort Lauderdale,FL,33301,T-65-FL-2152
+FLTMPKM,Kinder Morgan Liquids Terminals LLC,2101 GATX Drive,Tampa,FL,33601,T-59-FL-2123
+FRPTFLMU,"Murphy Oil USA, Inc. - Freeport",424 Madison St,Freeport,FL,32439,T-59-FL-2115
+FRSCAKM,"SFPP, LP",4149 South Maple Avenue,Fresno,CA,93650,T-77-CA-4651
+FRSFOR,"Buckeye Terminals, LLC - Decatur",266 E Shafer Drive,Forsyth,IL,62535,T-37-IL-3365
+FRSILPHL,"Buckeye Terminals, LLC - Decatur",266 E Shafer Drive,Forsyth,IL,62535,T-37-IL-3365
+FTLFLCIT,CITGO Petroleum Corporation,801 SE 28th Street,Fort Lauderdale,FL,33301,T-65-FL-2157
+FTLFLMAP,MPLX Ft Lauderdale Eisenhower,1601 SE 20th St,Fort Lauderdale,FL,33301,T-65-FL-2160
+FTLFLTPS,TransMontaigne - Port Everglades,2701 SE 14th Ave,Fort Lauderdale,FL,33301,T-65-FL-2165
+FTNCOCSP,"Magellan Pipeline Company, L.P.",1004 S. Sante Fe,Fountain,CO,80817,T-84-CO-4106
+GRENCCPT,Center Point Terminal - Greensboro,6900 West Market St,Greensboro,NC,27401,T-56-NC-2019
+GRNNCKM,Kinder Morgan Southeast Terminals LLC,6376 Burnt Poplar Rd,Greensboro,NC,27401,T-56-NC-2015
+GRNNCMA2,Magellan Terminals Holdings LP,115 Chimney Rock Road,Greensboro,NC,27401,T-56-NC-2020
+GRNNCMAG,Magellan Terminals Holdings LP,7109 West Market Street,Greensboro,NC,27401,T-56-NC-2011
+GRNNCMOT,Motiva Enterprises LLC,101 S. Chimney Rock Rd.,Greensboro,NC,27401,T-56-NC-2021
+GRNNCT,Kinder Morgan Southeast Terminals LLC,6907 West Market Street,Greensboro,NC,27401,T-56-NC-2014
+GRNNCTM,TransMontaigne - Greensboro,6801 West Market Street,Greensboro,NC,27401,T-56-NC-2022
+GRNS/MOT,Motiva Enterprises LLC,101 S. Chimney Rock Rd.,Greensboro,NC,27401,T-56-NC-2021
+GRYLAMAB,MPLX Garyville,Highway 61,Garyville,LA,70051,T-72-LA-2363
+HAMMECOL,"Coldbrook Energy, Inc.",809 Main Road No,Hampden,ME,4444,T-01-ME-1002
+HAMONSHL,SHELL HAMILTON,391 Burlington Street East,HAMILTON,ON,NULL,NULL
+HARILWRT,Hartford Wood River Terminal,900 North Delmar,Hartford,IL,62048,T-37-IL-3354
+HERTXMOT,Motiva Enterprises LLC,Highway 6 South,Hearne,TX,77859,T-74-TX-2702
+HETOHMPX,MPLX Heath,840 Heath Road,Heath,OH,43056,T-31-OH-3102
+HMMDINMA,MPLX Hammond,4206 Columbia Avenue,Hammond,IN,46320,T-35-IN-3218
+HOOFLBUN,"Buckeye Terminals, LLC - Tampa",504 N 19th Street,HOOKERS POINT,FL,NULL,T-59-FL-2107
+HRNTXSH,Motiva Enterprises LLC,Highway 6 South,Hearne,TX,77859,T-74-TX-2702
+HRSTILEQ,"Buckeye Terminals, LLC - Harristown",600 E. Lincoln Memorial Pky,Harristown,IL,62537,T-37-IL-3369
+HRTILEQ,"Buckeye Terminals, LLC - Hartford",220 E Hawthorne Street,Hartford,IL,62048,T-37-IL-3356
+HSTTXMAG,"Magellan Pipeline Company, L.P.",7901 Wallisvile Road,Houston,TX,77001,T-76-TX-2831
+HUNINMPX,MPLX Huntington,4648 N. Meridian Road,Huntington,IN,46750,T-35-IN-3208
+HUNINSUN,Sunoco Partners Marketing & Terminals LP,4691 N Meridian St,Huntington,IN,46750,T-35-IN-3231
+IMPCAKM,"SFPP, LP",345 W Aten Road,Imperial,CA,92251,T-33-CA-4763
+INBPINDY,Kinder Morgan Liquids Terminals LLC,2500 N Tibbs Avenue,Indianapolis,IN,46201,T-35-IN-3204
+INBUCCLE,"Buckeye Terminals, LLC - Raceway",3230 N Raceway Road,Indianapolis,IN,46201,T-35-IN-3226
+INBUCMUN,"Buckeye Terminals, LLC - Muncie",2000 East State Rd. 28,Muncie,IN,47303,T-35-IN-3229
+INBUCZIO,"Buckeye Terminals, LLC - Zionsville",5405 West 96th St.,Indianapolis,IN,46201,T-35-IN-3230
+INDINKM,Kinder Morgan Liquids Terminals LLC,2500 N Tibbs Avenue,Indianapolis,IN,46201,T-35-IN-3204
+INDYMACS,"Buckeye Terminals, LLC - Zionsville",5405 West 96th St.,Indianapolis,IN,46201,T-35-IN-3230
+INMARSPE,MPLX Speedway,1304 Olin Ave,Indianapolis,IN,46201,T-35-IN-3222
+INMARZIO,MPLX Indianapolis,4955 Robison Rd,Indianapolis,IN,46201,T-35-IN-3219
+INSEYHWR,HWRT Terminal - Seymour,9780 N US Hwy 31,Seymour,IN,47274,T-35-IN-3216
+JACFLTMT,TransMontaigne - Jacksonville,3425 Talleyrand Avenue,Jacksonville,FL,32099,T-59-FL-2105
+JAMIMPLX,MPLX Jackson,2090 Morrill Rd,Jackson,MI,49201,T-38-MI-3017
+JAXFLMAR,MPLX Jacksonville,2101 Heckscher Dr,Jacksonville,FL,32099,T-59-FL-2106
+JAXFLNU,NuStar Terminals Operations Partnership L. P. - Jacksonville,6531 Evergreen Avenue,Jacksonville,FL,32099,T-59-FL-2112
+JCVLFLVA,Center Point Terminal - Jacksonville,3101 Talley Rand Ave ,Jacksonville,FL,32099,T-59-FL-2681
+KANILBKY,"Buckeye Terminals, LLC - Kankakee",275 North 2750 West Road,Kankakee,IL,60901,T-36-IL-3313
+KENLAMOT,Motiva Enterprises LLC,143 Firehouse Dr.,Kenner,LA,70062,T-72-LA-2365
+KINCOL,Kinder Morgan Southeast Terminals LLC,31 Kola Road,Collins,MS,39428,T-64-MS-2402
+KINONSHL,SHELL KINGSTON,1250 Sydenham Road,Kingston,ON,NULL,NULL
+KINSAN,"SFPP, LP",2150 Kruse Avenue,San Jose,CA,95131,T-77-CA-4652
+KINTHR,Kinder Morgan Southeast Terminals LLC,6801 Freedom Dr,THRIFT,NC,28214,T-56-NC-2000
+KNKEIL,"Buckeye Terminals, LLC - Kankakee",275 North 2750 West Road,Kankakee,IL,60901,T-36-IL-3313
+KNTMMAP,MPLX Knoxville,2601 Knott Road,Knoxville,TN,37901,T-62-TN-2217
+KNXTNMTS,Motiva Enterprises LLC,5001 Middlebrook Pike NW,Knoxville,TN,37901,T-62-TN-2218
+KSCKSP66,Phillips 66 PL - Kansas City,2029 Fairfax Trafficway,Kansas City,KS,66101,T-43-KS-3672
+KYMARALG,MPLX Louisville (Algonquin),4510 Algonquin Parkway,Louisville,KY,40201,T-61-KY-3268
+KYMARKRA,MPLX Louisville (Kramers Lane),3920 Kramers Lane,Louisville,KY,40201,T-61-KY-3272
+LEBOHTEP,ERPC Lebanon,2700 Hart Road,Lebanon,OH,45745,T-31-OH-3118
+LEMILCIT,CITGO - Lemont,135th New Avenue,Lemont,IL,60439,T-36-IL-3317
+LEXKYVAL,Valero Terminaling & Distribution,1750 Old Frankfort Pike,Lexington,KY,40501,T-61-KY-3267
+LIMOHMPL,MPLX Lima,2990 South Dixie Highway,Lima,OH,45801,T-34-OH-3152
+LKCLACIT,CITGO - Lake Charles,Cities Serv Hwy & LA Hwy 108,Lake Charles,LA,70601,T-72-LA-2368
+LKPTILEX,ExxonMobil Oil Corp.,12909 High Road,Lockport,IL,60441,T-36-IL-3375
+LOUKYBUC,"Buckeye Terminals, LLC - Louisville ",1500 Southwestern Parkway,Louisville,KY,40201,T-61-KY-3269
+LVNVKM,"Calnev Pipe Line, LLC",5049 N Sloan,Las Vegas,NV,88901,T-88-NV-4350
+LVNVUNEV,Holly Energy Partners - Operating LP,13420 Grand Valley Parkway,North Las Vegas,NV,89030,T-88-NV-4365
+LXKYCHEV,TransMontaigne - Louisville,4510 Bells Lane,Louisville,KY,40201,T-61-KY-3271
+LXKYMAP,MPLX Lexington,1770 Old Frankfort Pike,Lexington,KY,40501,T-61-KY-3266
+MACGAMAP,MPLX Macon,2445 Allen Road,MacOn,GA,31201,T-58-GA-2541
+MACGASFC,Magellan Terminals Holdings LP,2505 Allen Road,MacOn,GA,31201,T-58-GA-2543
+MACGAVEN,South Florida Materials Corp dba Vecenergy,2476 Allen Road,MacOn,GA,31201,T-58-GA-2538
+MACHEGUL,Gulf Oil LP - Chelsea,281 Eastern Ave.,Chelsea,MA,2150,T-04-MA-1153
+MARCASHL,Shell Oil Products US - Martinez,1801 Marina Vista,Martinez,CA,94553,T-68-CA-4610
+MAREVGLO,Global Companies LLC,140 Lee Burbank Hwy,Revere,MA,2151,T-04-MA-1162
+MARROB,MPLX Robinson,12345 E 1050th Ave,Robinson,IL,62454,T-37-IL-3360
+MARROC,MPLX Rockford,7312 Cunningham Road,Rockford,IL,61101,T-36-IL-3308
+MASPRBUC,"Buckeye Terminals, LLC - Springfield ",145 Albany Street,Springfield,MA,1105,T-04-MA-1168
+MEBANBUC,"Buckeye Terminals, LLC - Bangor",730 Lower Main Street,Bangor,ME,4401,T-01-ME-1000
+MEMTNEXN,ExxonMobil Oil Corp.,454 Wisconsin Avenue,Memphis,TN,37501,T-62-TN-2225
+MEPORGUL,Gulf Oil LP - South Portland,175 Front St,Portland,ME,4101,T-01-ME-1008
+MERLAVAL,Valero Refining - Meraux,2501 East St Bernard Hwy,Meraux,LA,70075,T-72-LA-2371
+MESPBUC,Buckeye Development & Logistics II LLC,170 Lincoln Street,South Portland,ME,4106,T-01-ME-1004
+MGLNILBP,"Magellan Pipeline Company, L.P.",16490 East 100 North Rd.,Heyworth,IL,61745,T-37-IL-3371
+MILWICIT,CITGO - Milwaukee,9235 North 107th Street,Milwaukee,WI,53201,T-39-WI-3068
+MLWAP66,Phillips 66 PL - Moses Lake,3 miles north of Moses Lake,Moses Lake,WA,98837,T-91-WA-4401
+MNTALBUC,"Buckeye Terminals, LLC - Montgomery",Hwy 31 North,Montgomery,AL,36101,T-63-AL-2304
+MNTALMAG,Magellan Terminals Holdings LP,3560 Well Rd,Montgomery,AL,36101,T-63-AL-2322 
+MONALMPX,MPLX Montgomery,320 Hunter Loop Rural Rt 6,Montgomery,AL,36101,T-63-AL-2325 
+MONQCNOR,NORCAN MONTREAL,6370 Rue Notre-Dame Est,Montreal,QC,NULL,NULL
+MONQCSHL,SHELL MONTREAL,10605 Boulevard Henri-Bourassa Est,Montreal,QC,NULL,NULL
+MONQCSUN,SUNCOR MONTREAL,11675 rue Sherbrooke Est,Montreal,QC,NULL,NULL
+MONQCVAL,VALERO MONTREAL,700 Marien avenue,Montreal,QC,NULL,NULL
+MORNMNAV,Holly Energy Partners - Operating LP,1001 E. Martinez Road,MORIARTY,NM,87035,T-86-NM-4262
+MOSTLEQ,"Buckeye Terminals, LLC - St. Louis North",239 East Prairie St.,ST. LOUIS,MO,63147,T-43-MO-3725
+MPHTNEXX,ExxonMobil Oil Corp.,454 Wisconsin Avenue,Memphis,TN,37501,T-62-TN-2225
+MPHTNVAL,Valero Partners Operating Co LLC,321 W. Mallory Ave.,Memphis,TN,37501,T-62-TN-2227
+MPLBRE,MPLX Brecksville,10439 Brecksville Road,Brecksville,OH,44141,T-34-OH-3151
+MPLXNC,MPLX Selma (West Oak),2555 West Oak Street,Selma,NC,27576,T-56-NC-2031
+MTPILMAR,MPLX Mt. Prospect,3231 Busse Road,Arlington Heights,IL,60004,T-36-IL-3307
+MUNINMAR,MPLX Muncie,2100 East State Road 28,Muncie,IN,47302,T-35-IN-3221
+NAGSCKM,Kinder Morgan Southeast Terminals LLC,221 Laurel Lake Drive,North Augusta,SC,29841,T-57-SC-2060
+NAGSCMA,Magellan Terminals Holdings LP,1222 Sweetwater Road,North Augusta,SC,29841,T-57-SC-2063
+NAGSCMAG,Magellan Terminals Holdings LP,217 Sweet Water Road,North Augusta,SC,29841,T-57-SC-2059
+NAGTSC,Kinder Morgan Southeast Terminals LLC,221 Laurel Lake Drive,North Augusta,SC,29841,T-57-SC-2060
+NAPMIBUC,"Buckeye Terminals, LLC - Napoleon",6777 Brooklyn Road,Napoleon,MI,49261,T-38-MI-3004
+NASCCHR,"Buckeye Terminals, LLC - North Augusta",221 Sweetwater Rd.,North Augusta,SC,29841,T-57-SC-2061
+NCILHWRT,HWRT Terminal - Norris City,Rural Route 2,Norris City,IL,62869,T-37-IL-3361
+NCVFLCIT,CITGO - Niceville,904 Bayshore Drive,Niceville,FL,32578,T-59-FL-2114
+NCWLMBUC,"Buckeye Terminals, LLC - Wilmington",1312 S Front St.,Wilmington,NC,28401,T-56-NC-2037
+NEPONSHL,SHELL OTTAWA,369 West Hunt Club Road,Nepean,ON,NULL,NULL
+NFLNLIRV,IRVING ST-JOHNS MARINE TERMINAL,24 SouthSide RD ,NEWFOUNDLAND,NL,NULL,NULL
+NHPORMAR,"Irving Oil Terminals, Inc.",50 Preble Way,Portsmouth,NH,3801,T-02-NH-1056
+NILMIBUC,"Buckeye Terminals, LLC - Niles",2303 South Third Street,Niles,MI,49120,T-38-MI-3028
+NILOHBUC,"Buckeye Terminals, LLC - Niles",1001 Youngstown  Warren Rd,Niles,OH,44446,T-34-OH-3167
+NSHTNEXX,ExxonMobil Oil Corp.,1741 Ed Temple Blvd,Nashville,TN,37201,T-62-TN-2236
+NSHTNMA2,MPLX Nashville (Bordeaux),2920 Old Hydes Ferry Road,Nashville,TN,37201,T-62-TN-2238
+NSHTNMA3,MPLX Nashville (51st Ave),1409 51st Ave,Nashville,TN,37201,T-62-TN-2237
+NSHTNMAG,Magellan Terminals Holdings LP,1609 63rd Avenue North,Nashville,TN,37201,T-62-TN-2240
+NSHTNMAR,MPLX Nashville (Downtown),Five Main Street,Nashville,TN,37201,T-62-TN-2232
+NYALBAPX,Center Point Terminal - Glenmont,Route 144 552 River Road,Glenmont,NY,12077,T-14-NY-1405
+NYALBBUC,Buckeye Albany Terminal LLC,301 Normanskill St.,Albany,NY,12201,T-14-NY-1401
+NYALGLO,Global Companies LLC,50 Church Street,Albany,NY,12201,T-14-NY-1403
+OAKONPET,PETRO CANADA BRONTE,715 McPherson Road,OAKVILLE,ON,NULL,NULL
+OHBUCCIN,"Buckeye Terminals, LLC - Cincinnati",5150 River Road,Cincinnati,OH,45201,T-31-OH-3128
+OKCOKEQU,TransMontaigne - Oklahoma City,951 N. Vickie,Oklahoma City,OK,73101,T-73-OK-2614
+OKCOKMAG,"Magellan Pipeline Company, L.P.",251 N Sunny Lane,Oklahoma City,OK,73101,T-73-OK-2613
+OKCOKP66,Phillips 66 PL - Oklahoma City,4700 NE Tenth,Oklahoma City,OK,73101,T-73-OK-2612
+OPLLACHV,"Buckeye Terminals, LLC - Opelousas",Highway 182 South,Opelousas,LA,70570,T-72-LA-2375
+ORGCAKM,"SFPP, LP",1350 North Main Street,Orange,CA,92613,T-33-CA-4772
+ORLFLKM,Central Florida Pipeline LLC,9919 Orange Avenue,Orlando,FL,32801,T-59-FL-2129
+OROHMP,MPLX Oregon,4131 Seaman Road,Oregon,OH,43616,T-34-OH-3153
+PASMSCHV,"Chevron USA, Inc.- Pascagoula",Industrial Road State Hwy 611,Pascagoula,MS,39567,T-64-MS-2416
+PASTXKM,KM Pasadena Truck Facility,400 N. Jefferson,Pasadena,TX,77501,T-76-TX-2830  
+PASWATES,Tesoro Logistics Operations LLC,3000 Sacajawea Park Road,Pasco,WA,99301,T-91-WA-4402
+PCTYFLCH,"Chevron USA, Inc.- Panama City",525 West Beach Drive,Panama City,FL,32401,T-59-FL-2116
+PHICHI,CITGO Petroleum Corporation - East Chicago,2500 East Chicago Ave,East Chicago,IN,46312,T-35-IN-3209
+PHIOKA,Phillips 66 PL - Glenpool,10600 S Elwood,Jenks,OK,74037,T-73-OK-2608
+PHXAZ/CK,Circle K Terminal,5333 W Van Buren St,Phoenix,AZ,85001,T-86-AZ-4313
+PHXAZCAL,"Caljet of America, LLC",125 North 53rd Ave,Phoenix,AZ,85001,T-86-AZ-4300
+PHXAZKMP,"SFPP, LP Phoenix Terminal",49 North 53rd Avenue,Phoenix,AZ,85001,T-86-AZ-4304
+PHXAZPRO,"Pro Petroleum, Inc. - Phoenix",408 S 43rd Avenue,Phoenix,AZ,85001,T-86-AZ-4303
+PNSFLTRM,TransMontaigne - Pensacola,511 South Clubbs St.,Pensacola,FL,32501,T-59-FL-2120
+PORFLEXX,ExxonMobil Oil Corp.,1150 Spangler Blvd,Port Everglades,FL,33316,T-65-FL-2161
+PORFLTRA,TransMontaigne - Fort Lauderdale,2401 Eisenhower Blvd.,Port Everglades,FL,33316,T-65-FL-2150
+PRTBCKFL,"Buckeye Terminals, LLC - Fort Lauderdale",1501 SE 20th St.,Fort Lauderdale,FL,33301,T-65-FL-2156
+PRVRIMO,Motiva Enterprises LLC,520 Allens Avenue,Providence,RI,2901,T-05-RI-1205
+PSDTXP66,Phillips 66 PL - Pasadena,100 Jefferson Street,Pasadena,TX,77501,T-76-TX-2811
+PTALAPLC,Placid Refining Co. LLC,1940 Louisiana Hwy One North,Port Allen,LA,70767,T-72-LA-2376
+PTEFLMOT,Motiva Enterprises LLC,1200 SE 28th St,Port Everglades,FL,33316,T-65-FL-2164
+PTFLMOT,Motiva Enterprises LLC,6500 W. Commerce St,Port Tampa City,FL,33616,T-59-FL-2124
+PWSGAMAR,MPLX Powder Springs,3895 Anderson Farm Road NW,Powder Springs,GA,30073,T-58-GA-2545
+QUCQCIMT,IMTT QUEBEC INC.,Pont De Quebec,Quebec,QC,NULL,NULL
+RCHVAKM,Kinder Morgan Southeast Terminals LLC,2000 Trenton Avenue,Richmond,VA,23201,T-54-VA-1681
+REVMAIRV,"Irving Oil Terminals, Inc.",41 Lee Burbank Highway,Revere,MA,2151,T-04-MA-1160
+RICVABUC,"Buckeye Terminals, LLC - Richmond",1636 Commerce Road,Richmond,VA,23201,T-54-VA-1677
+RICVACIT,CITGO - Richmond,Third & Maury Street,Richmond,VA,23201,T-54-VA-1679
+RICVATPS,TransMontaigne - Richmond,700 Goodes Street,Richmond,VA,23201,T-54-VA-1678
+RKFILBUC,"Buckeye Terminals, LLC - Rockford",1511 South Meridian Road,Rockford,IL,61101,T-36-IL-3306
+ROAVAKM,Kinder Morgan Southeast Terminals LLC,835 Hollins Road Northeast,Roanoke,VA,24001,T-54-VA-1688
+ROCILBP,Kinder Morgan Liquids Terminals LLC,100 East Standard Oil Road,Rochelle,IL,61045,T-36-IL-3303
+RRMIBUBP,"Buckeye Terminals, LLC - River Rouge",205 Marion Street,River Rouge,MI,48218,T-38-MI-3005
+SACCASHL,Shell Oil Products US - W Sacramento,1509 South River Road,Sacramento,CA,94203,T-68-CA-4622
+SANDCAKM,"SFPP, LP",9950 San Diego Mission Road,San Diego,CA,92101,T-33-CA-4776
+SANTXCAL,Calumet San Antonio Refining,7811 S. Presa,San Antonio,TX,78201,T-74-TX-2712
+SARALSHL,Shell Chemical LP - Mobil,400 Industrial Parkway,Saraland,AL,36571,T-63-AL-2334
+SATXCITG,CITGO - San Antonio,4851 Emil Road,San Antonio,TX,78201,T-74-TX-2737
+SATXEXXN,ExxonMobil Oil Corp.,3214 North Pan Am Expressway,San Antonio,TX,78201,T-74-TX-2740
+SATXFH,"Flint Hills Resources, LP-San Antonio",498 and Pop Gun,San Antonio,TX,78201,T-74-TX-2742
+SATXMOTV,Motiva Enterprises LLC,510 Petroleum Drive,San Antonio,TX,78201,T-74-TX-2745
+SATXNUSE,"NuStar Logistics, L. P. - San Antonio East",4719 Corner Parkway #2,San Antonio,TX,78201,T-74-TX-2738
+SAVGACOL,"Colonial Terminal, Inc.",101 North Lathrop Ave,Savannah,GA,31401,T-58-GA-2550
+SEAWAEQU,Shell Oil Products US,2555 13th Ave. S W,Seattle,WA,98060,T-91-WA-4408
+SGTCATES,Tesoro Logistics Operations LLC,8601 S. Garfield Ave.,South Gate,CA,90280,T-95-CA-4807
+SHRLACAL,Shreveport Refinery,3333 Midway  PO Box 3099,Shreveport,LA,71101,T-72-LA-2378
+SJCASHL,Shell Oil Products US,2165 O'Toole Ave.,San Jose,CA,95101,T-77-CA-4653
+SLKTXSHM,"NuStar Logistics, L. P. - Southlake",1700 Hwy 26,Grapevine,TX,76051,T-75-TX-2680
+SLMANCKM,Kinder Morgan Southeast Terminals LLC,4383 Buffalo Rd.,Selma,NC,27576,T-56-NC-2033
+SLMNCARC,Arc Terminals Holdings LLC,2999 W. Oak St.,Selma,NC,27576,T-56-NC-2025
+SLMNCCTR,Kinder Morgan Southeast Terminals LLC,2200 West Oak St.,Selma,NC,27576,T-56-NC-2018
+SLMNCKIM,Kinder Morgan Southeast Terminals LLC,4383 Buffalo Rd.,Selma,NC,27576,T-56-NC-2033
+SLMNCKM,MPLX Selma (Buffalo) ,3707 Buffalo Road,Selma,NC,27576,T-56-NC-2029
+SLMNCMAG,Magellan Terminals Holdings LP,4414 Buffalo Road,Selma,NC,27576,T-56-NC-2036
+SLMNCMAR,MPLX Selma (West Oak),2555 West Oak Street,Selma,NC,27576,T-56-NC-2031
+SLMNCPKM,Kinder Morgan Southeast Terminals LLC,4086 Buffalo Road,Selma,NC,27576,T-56-NC-2034
+SLMNCTPS,TransMontaigne - Selma - N,2600 W. Oak St.,Selma,NC,27576,T-56-NC-2028
+SPASCBUC,"Buckeye Terminals, LLC - Spartansburg",680 Delmar Road,Spartanburg,SC,29301,T-57-SC-2052
+SPLQCIMP,IMPERIAL SEPT-ILES,18 Rue Retty ,SEPT-ÎLES,QC,NULL,NULL
+SPOMECIT,CITGO - South Portland,102 Mechanic Street,South Portland,ME,4106,T-01-ME-1010
+SPOWAEXX,ExxonMobil Oil Corp.,6311 East Sharp Avenue,Spokane,WA,99201,T-91-WA-4411
+SPRSCCIT,CITGO - Spartanburg,2590 Southport Road,Spartanburg,SC,29301,T-57-SC-2077
+SPRSCKIN,Kinder Morgan Southeast Terminals LLC,200 Nebo Street,Spartanburg,SC,29301,T-57-SC-2074
+SPRSCKM,Kinder Morgan Southeast Terminals LLC,200 Nebo Street,Spartanburg,SC,29301,T-57-SC-2074
+SPRSCMA1,Magellan Terminals Holdings LP,Old Union Rd Route 4,Spartanburg,SC,29301,T-57-SC-2068
+SPRSCMAG,Magellan Terminals Holdings LP,2430 Pine Street Ext,Spartanburg,SC,29301,T-57-SC-2076
+SPRSCMOT,Motiva Enterprises LLC,300 Delmar Road,Spartanburg,SC,29301,T-57-SC-2075
+SRSMEIRV,"Irving Oil Terminals, Inc",Station Ave,Searsport,ME,4974,T-01-ME-1006
+STJNBIRV,IRVING OIL REFINERY,340 Loch Lomond Road,Saint John,IN,46373,NULL
+STJNLVAL,NARL VALERO,29 Pippy Place,Saint John,IN,46373,NULL
+STKCASHL,Shell Oil Products US - Stockton,3515 Navy Dirve,Stockton,CA,95201,T-68-CA-4628
+STLSTA,J D Streett - St. Louis,3800 S. 1st St.,ST. LOUIS,MO,63147,T-43-MO-3701
+STRQCVAL,VALERO ST-ROMUALD,165 Chemin des Îles ,SAINT-ROMUALD,QC,NULL,NULL
+STRVAKM,Kinder Morgan Southeast Terminals LLC,5280 Terminal Road SW,Roanoke,VA,24001,T-54-VA-1690
+STRVAMAG,Magellan Terminals Holdings LP,5287 Terminal Road,Roanoke,VA,24001,T-54-VA-1689
+STVOHMPX,MPLX Steubenville,28371 Kingsdale Road,Steubenville,OH,43952,T-34-OH-3154
+SWESCBUC,"Buckeye Terminals, LLC - North Augusta",221 Sweetwater Rd.,Sweetwater,SC,29841,T-57-SC-2061
+SWESCKMP,Kinder Morgan Southeast Terminals LLC,205 Sweetwater Rd.,Sweetwater,SC,29841,T-57-SC-2062
+SYDNBIOL,IMPERIAL OIL SYDNEY,1 George Street,SYDNEY,NB,NULL,NULL
+THRNCKIN,Kinder Morgan Southeast Terminals LLC,502 Tom Sadler Rd.,THRIFT,NC,28214,T-56-NC-2004
+THRNCMA1,Magellan Terminals Holdings LP,7145 Mount Holly Rd.,THRIFT,NC,28214,T-56-NC-2006
+THRNCMG2,Magellan Terminals Holdings LP,7924 Mt. Holly Rd.,THRIFT,NC,28214,T-56-NC-2024
+THRTXDIA,Diamond Shamrock - Three Rivers,301 Leroy Street,Three Rivers,TX,78071,T-74-TX-2747
+TLSOKSN,Holly Energy Partners - Operating LP,1307 W 35th St,Tulsa,OK,74101,T-73-OK-2620
+TMPFLBCK,"Buckeye Terminals, LLC - Tampa",504 N 19th Street,Tampa,FL,33601,T-59-FL-2107
+TMPFLCIT,CITGO - Tampa,801 McCloskey Blvd,Tampa,FL,33601,T-59-FL-2133
+TMPFLKM,Kinder Morgan Liquids Terminals LLC,2101 GATX Drive,Tampa,FL,33601,T-59-FL-2123
+TMPFLMAR,MPLX Tampa,425 South 20th Street,Tampa,FL,33601,T-59-FL-2136
+TMPFLMUR,"Murphy Oil USA, Inc. - Tampa",1306 Ingram Ave,Tampa,FL,33601,T-59-FL-2100
+TMPMOTIV,Motiva Enterprises LLC,6500 W. Commerce St,Port Tampa City,FL,33616,T-59-FL-2124
+TOLOHBUC,"Buckeye Terminals, LLC - Toledo",2450 Hill Avenue,Toledo,OH,43601,T-34-OH-3148
+TORONIOL,IOL FINCH-DOWNSVIEW,1150 FINCH AVE ,Toronto,ON,NULL,NULL
+TORONSHL,SHELL KEEL,3975 Keele Street,Toronto,ON,NULL,NULL
+TUCAZKM,"SFPP, LP",3841 East Refinery Way,Tucson,AZ,85701,T-86-AZ-4310
+TULOKSIN,Holly Energy Partners - Operating LP,1307 W 35th St,Tulsa,OK,74101,T-73-OK-2620
+VICMSCIT,CITGO - Vicksburg,1585 Haining Rd,Vicksburg,MS,39180,T-64-MS-2419
+VICTXCIT,CITGO - Victoria,1708 North Ben Jordan Blvd,Victoria,TX,76664,T-74-TX-2703
+VRNCAEXX,Torrance Logistics Company,2709 East 37th Street,Vernon,CA,90058,T-95-CA-4805
+WACOTXFH,"Flint Hills Resources, LP-Waco",2017 Kendall Lane,Waco,TX,76701,T-74-TX-2707
+WASOKSUN,Sunoco Partners Marketing & Terminals LP,9 South,Waskom,TX,75692,T-75-TX-2688
+WILNCAPX,Apex Oil Company,3314 River Road,Wilmington,NC,28401,T-56-NC-2043
+WILNCBUC,"Buckeye Terminals, LLC - Wilmington",1312 S Front St.,Wilmington,NC,28401,T-56-NC-2037
+WRILKIN,Kinder Morgan Liquids Terminals LLC,1000 BP Lane,Wood River,IL,62095,T-37-IL-3351
+YOUOHMPL,MPLX Youngstown,1140 Bears Den Road,Youngstown,OH,44501,T-34-OH-3155
+TEMP,NULL,NULL,NULL,NULL,NULL,NULL
+BELONIOL,IOL BELLEVILLE TERMINAL,121 TANK FARM RD,BELLEVILLE,ON,K8N 4Z6,NULL
+NANONIOL,IOL NANTICOKE,Concession 3 Road,Nanticoke,ON,N0A 1L0,NULL
+NEPONIOL,IOL NEPEAN/OTTAWA,1961 MERIVALE ROAD,NEPEAN,ON,K2G 1G1,NULL
+SARONIOL,IOL SARNIA TERMINAL,675 VIDAL STREET SOUTH,SARNIA,ON,N7T2A4,NULL
+SSMONIOL,IOL SAULT STE MARIE TERMINAL,52 BLACK RD,SAULT STE MARIE,ON,P6B 0A4,NULL
+IRVOIL,IRVING OIL,NULL,SAINT JOHN,ME,4743,NULL
+SARONSHL,SHELL SARNIA (CORUNNA),675 VIDAL STREET SOUTH,SARNIA,ON,N7T2A4,NULL
+OAKONSUN,SUNCOR BRONTE/OAKVILLE,715 MCPHERSON ROAD,OAKVILLE,ON,L6L 6S9,NULL
+THBONSUN,SUNCOR THUNDER BAY TERMINAL,300 106TH ST MISSION ISLAND,THUNDER BAY,ON,P7E 0A4,NULL
+MTLONVAL,VALERO MAITLAND,PO Box 196,MAITLAND,ON,K0E 1P0,NULL
+HMMDINMO,ExxonMobil OIl Corp.,1527 141st St,Hammond,IN,46327,T-35-IN-3224
+DETMIBUC,"Buckeye Terminals, LLC - Detroit ",700 S Deacon St,Detroit,MI,48217,T-38-MI-3025
+FERMIBUC,"Buckeye Terminals, LLC - Ferrysburg",17806 North Shore Dr. ,Ferrysburg,MI,49409,T-38-MI-3013
+BHMALCIR,CIRCLE K TERMINAL BIRMINHAM,2529 28th Street SW,BIRMINGHAM,AL,35201,T-63-AL-2340

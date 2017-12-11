@@ -1,0 +1,37 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <%= label_tag 'site_id', 'Site Code', class: 'field_label' %>
+  <%= @store.site_id %>
+  <%= label_tag 'phone', 'Phone', class: 'field_label' %>
+  <%= @store.phone %>
+  <%= label_tag 'address', 'Address', class: 'field_label'%>
+  <%= @store.address %>
+  <%= label_tag 'city', 'City', class: 'field_label' %>
+  <%= @store.city %>
+  <%= label_tag 'state', 'State', class: 'field_label' %>
+  <%= @store.state %>
+  <%= label_tag 'brand', 'Brand', class: 'field_label' %>
+  <%= @store.brand %>
+  <%= label_tag 'supplier', 'Supplier', class: 'field_label' %>
+  <%= @store.supplier %>
+  <%= label_tag 'loading_numbers', 'Loading Numbers', class: 'field_label' %>
+  <%= @store.loading_numbers %>
+  <%= label_tag 'mm_dbm', 'Market Manager/DBM', class: 'field_label' %>
+  <%= @store.mm_dbm %>
+  <%= label_tag 'manager_phone', 'Manager Phone', class: 'field_label' %>
+  <%= @store.manager_phone %>
+  <%= label_tag 'notes', 'Notes', class: 'field_label' %>
+  <%= @store.notes %>
+  <%= label_tag 'miles', 'Miles to Terminal', class: 'field_label' %>
+  <%= @store.miles %>
+  <%= label_tag 'co_de', 'Co-op or Dealer', class: 'field_label' %>
+  <%= @store.co_de %>
+  <%= label_tag 'active', 'Active Store', class: 'field_label' %>
+  <%= @store.active %>
+  <%= label_tag 'email', 'Email', class: 'field_label' %>
+  <%= @store.email %>
+</p>
+
+<%= link_to 'Edit', edit_store_path(@store) %> |
+<%= link_to 'Back', stores_path %>

@@ -1,0 +1,7 @@
+<aside class="sidebar"><%= render "storeSideMenu" %></aside>
+
+<%= form_tag(test_result_path(:site_id), :method=>"get", id:"search_form") do %>
+  <%= label_tag "site_id", "Site ID" %>
+  <%= text_field_tag :site_id %>
+  <%= submit_tag "Find", :name => nil %>
+<% end %>

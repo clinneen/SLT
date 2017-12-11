@@ -1,0 +1,235 @@
+name,description,phone,email,ops_manager,manager_contact
+AANDW,A&W Oil,706-722-5321,bchance@awoil.com,NULL,NULL
+ADVCOLOH,Advantage Columbus,800-679-9695,atl13dispatch@thekag.com; heather.riffle@thekag.com; Aaron.smith@thekag.com; atl-cincidisp@thekag.com,Dan Techinpaugh,Cell 614-456-6209
+ADVDETMI,Advantage Detroit,800-969-2885,atl20dispatch@thekag.com,Roy Tolbert,Direct 877-844-3455
+ADVHTHOH,Advantage Heath,800-420-0607,atl10dispatch@thekag.com,Mel Kidwell,Cell 740-844-0276
+ADVLOUKY,Advantage Louisville,800-785-6141,atl51dispatch@thekag.com; heather.riffle@thekag.com; aaron.smith@thekag.com,NULL,NULL
+BAYOIL,Bay Oil,281-337-4673,baydispatch1921@gmail.com,NULL,NULL
+BLINE,B-Line,352-754-5381,dispatch@b-linecarriers.com,NULL,NULL
+COAALBNM,Coastal Albuquerque,505-877-4757; 888-388-8644,Albuquerque.dispatch@coastaltransport.com,Victor Monsivais,Cell 505-249-9855
+COAELPTX,Coastal El Paso,915-921-5995,elpaso.diespatch@coastaltransport.com,Miguel Segura,miguel.segura@coastal.transport.com
+COAPHXAZ,Coastal Phoenix,800-695-2125,phoenix.dispatch@coastaltransport.com,Mark Loudermilk,mark.loudermilk@coastaltransport.com
+COASDCA,Coastal San Diego,800-284-3765,sandiego.dispatch@coastaltransport.com,Kevin Feenaughty,(337) 984-8571
+COASTTX,Coastal Austin,800-252-3747,austin.dispatch@coastaltransport.com,Wanda Goldman,wanda.golman@coastaltransport.com
+COASTTX,Coastal Brownsville,956-838-1503,brownsville.dispatch@coastaltransport.com,Wanda Goldman,Cell 737-704-5436
+COASTTX,Coastal Corpus Christi,800-242-3365; 361-289-1797,Corpus.dispatch@coastaltransport.com,Wanda Goldman,Cell 737-704-5436
+COASTTX,Coastal Port Arthur,409-736-3949,portarthur.dispatch@coastaltransport.com,Wanda Goldman,Cell 737-704-5436
+COASTTX,Coastal San Antonio,210-661-4131,sanantonio.dispatch@coastaltransport.com,Kevin Feenaughty,kevin.feenaughty@coastaltransport.com
+COASTTX,Coastal Waco,254-799-5558,Waco.Dispatch@coastaltransport.com,James Thompson,james.thompson@coastaltransport.com
+COATUCAZ,Coastal Tucson,800-759-9141,tucson.dispatch@coastaltransport.com,Larry Sargent,larry.sargent@coastaltransport.com
+COMMTX,Comm Direct Texas,210-355-9977,NULL,NULL,NULL
+CORFL,Coraluzzo Florida,"800-899-1142 opt 1,4,3",floridadispatch@coraluzzo.com,NULL,NULL
+CORGA,Coraluzzo Atlanta,800-899-1142 x064 x050,georgiadispatch@coraluzzo.com,NULL,NULL
+CORNC,Coraluzzo Charlotte,"800-899-1142 opt 1,4,1",carolinadispatch@coraluzzo.com,NULL,NULL
+COXCAL,Cox CA,888-339-3236,inventory2@coxpetroleum.com; boards@coxpetroleum.com,Cindy Salters,Cell - 661-371-2425
+CWCFL,CWC,954-857-5295,tampadispatch@cwctransportation.com,NULL,NULL
+DEADRV,Dead River Transport,207-469-6113,transportdispatch@deadriver.com,NULL,NULL
+DELEK,Delek,615-430-9312,dispatch@delekus.com,NULL,NULL
+DFUEL,Direct Fuel,251-471-3384 x211,mocojeb@aol.com,NULL,NULL
+DIATRU,Diamond Trucking,602-278-7399 opt 1,dispatch@diamondtrucking.net,NULL,NULL
+DRPTAZ,DRPT,602-305-7202,dispatch@desertrpt.com,Scott Hutchens,Direct 602-305-7202 ext 2
+DUPRGC,Dupre Baton Rouge,800-603-0577,dispatchbr@duprelogistics.com,NULL,NULL
+DUPRGC,Dupre Birmingham,800-603-0577,dispatchbr@duprelogistics.com,NULL,NULL
+DUPRGC,Dupre Duson,800-366-1527,dispatchdu@duprelogistics.com,NULL,NULL
+DUPRGC,Dupre Jackson,800-267-9513,dispatchja@duprelogistics.com,NULL,NULL
+DUPRGC,Dupre Mobile,800-603-0577,dispatchgc@duprelogistics.com,NULL,NULL
+DUPRGC,Dupre Shreveport,800-852-5472,dispatchsh@duprelogistics.com,NULL,NULL
+DUPRTX,Dupre San Antonio,866-756-9981,dispatchsa@duprelogistics.com,NULL,NULL
+EAGCHAT,Eagle Chattanooga,423-499-6152,dispatch.57@eagletransportcorp.com,NULL,NULL
+EAGCHES,Eagle Chesapeake,800-776-9535,dispatch.20@eagletransportcorp.com,NULL,NULL
+EAGCHLT,Eagle Charlotte,800-776-9664,dispatch.36@eagletransportcorp.com,NULL,NULL
+EAGCHSN,Eagle Charleston,800-776-9557,dispatch.33@eagletransportcorp.com; dispatch.30@eagletransportcorp.com,NULL,NULL
+EAGGBRO,Eagle Greensboro,800-776-9747,dispatch.45@eagletransportcorp.com,NULL,NULL
+EAGJKVL,Eagle Jacksonville,800-776-9454,dispatch.76@eagletransportcorp.com; jacksonville@eagletransportcorp.com; dispatch.70@eagletransportcorp.com,NULL,NULL
+EAGJKVL,Eagle Talleyrand,NULL,dispatch.76@eagletransportcorp.com; dispatch.70@eagletransportcorp.com,NULL,NULL
+EAGNAGU,Eagle North Augusta,800-776-9662,dispatch.30@eagletransportcorp.com,NULL,NULL
+EAGNASH,Eagle Nashville,800-737-9722,dispatch.52@eagletransportcorp.com,NULL,NULL
+EAGPTEV,Eagle Port Everglades,800-776-9778 x1,dispatch.73@eagletransportcorp.com,NULL,NULL
+EAGRICH,Eagle Montvale,800-776-9535,dispatch.20@eagletransportcorp.com,NULL,NULL
+EAGRICH,Eagle Richmond,804-231-6472,dispatch.20@eagletransportcorp.com; dispatch.25@eagletransportcorp.com,NULL,NULL
+EAGRICH,Eagle Starkey,800-776-9535; 800-538-6431,dispatch.20@eagletransportcorp.com; dispatch.23@eagletransportcorp.com,NULL,NULL
+EAGROAN,Eagle Roanoke,800-538-6431,dispatch.23@eagletransportcorp.com,NULL,NULL
+EAGSAVA,Eagle Belton,800-776-9552,dispatch.36@eagletransportcorp.com; dispatch.39@eagletransportcorp.com,NULL,NULL
+EAGSLMA,Eagle Selma,800-776-9737,selma@eagletransportcorp.com,NULL,NULL
+EAGSPTG,Eagle Spartanburg,800-776-9552,dispatch.39@eagletransportcorp.com,NULL,NULL
+EAGTAFT,Eagle Orlando,888-228-9399 x1,dispatch.72@eagletransportcorp.com; dispatch.76@eagletransportcorp.com; dispatch.70@eagletransportcorp.com,NULL,NULL
+EAGTAFT,Eagle Taft,NULL,NULL,NULL,NULL
+EAGTMPA,Eagle Tampa,800-776-9757 x1,dispatch.70@eagletransportcorp.com,NULL,NULL
+EVANSCA,Evans CA,323-214-0050,dispatch@evansdedicated.com,NULL,NULL
+FLRCKCOL,FL Rock Albany,229-883-0881 x1,albanydispatch@patriottrans.com,Greg Runnion,Direct 706-563-5671
+FLRCKCOL,FL Rock Augusta,706-793-6111,Augustadispatch@patriottrans.com,Greg Runnion,Direct 706-563-5671
+FLRCKCOL,FL Rock Columbus,706-563-5671,columbusdispatch@patriottrans.com,Greg Runnion,Direct 706-563-5671
+FLRCKCOL,FL Rock Montgomery,334-834-5453,montgomerydispatch@patriottrans.com,Greg Runnion,Direct 706-563-5671
+FLRCKORD,FL Rock Orlando,904-757-5001 x4,tampadispatch@patriottrans.com; OcoeeDispatch@patriottrans.com,NULL,NULL
+FLRCKPCB,FL Rock Panama City,850-763-6557,panamacitydispatch@patriottrans.com,NULL,NULL
+FLRCKPEN,FL Rock Jacksonville,NULL,NULL,Dusty Blose,850-619-3562
+FLRCKPEN,FL Rock Pensacola,850-476-2332 x1,pensacoladispatch@patriottrans.com,Dusty Blose,850-619-3562
+FLRCKTMP,FL Rock Tampa,904-356-2456 x1,tampadispatch@patriottrans.com,NULL,NULL
+FLYSTAR,Flying Star,806-731-4023,dispatch@goflyingstar.com,NULL,NULL
+GILBTX,Gilbert Texas,512-845-8830,qback13@gmail.com,NULL,NULL
+GROEN,Groendyke Albuquerque,800-637-0211,albuquerque@groendyke.com,Sharon Burkdol,sburkdol@groendyke.com
+GROEN,Groendyke Amarillo,806-335-1686,gti.amarillodispatch@groendyke.com,NULL,NULL
+GROEN,Groendyke Kansas,913-621-2200,kansascityrefined@groendyke.com,NULL,NULL
+GROEN,Groendyke Phoenix,602-272-2785,phoenixterminal@groendyke.com; gti.phnxdispatch@groendyke.com,Randy Bloom,rbloom@groendyke.com; 480-287-4946
+GROEN,Groendyke Witchita,316-755-1266,gti.witafuel@groendyke.com,NULL,NULL
+HOC,HOC,330-630-0100; 330-715-7591,dispatch@hoctransport.com; chummell@hoctransport.com,Carl Hummel,Cell 330-715-7591
+HOFBR,Haul of Fame,985-215-1420,dispatch@hauloffametransport.com; cpier@hauloffametransport.com,NULL,NULL
+IRVNE,Irving,800-567-5030,directdeliverydispatch@irvingoil.com,Drake Bell,Direct 207-548-2541 ext 301
+JOCTEXA,Johnson Oil,830-672-9232 x324,dispatch2@triplesfuels.com,Bill Netherton,Direct 830-672-9232 ext 333/512-748-5610
+KAGBRLA,Kenan Baton Rouge,225-358-4375,batonrouge@thekag.com,Alan Leach,Cell 318-658-8003
+KAGBRMGA,KAG Birmingham,470-395-0616,atlanta@ttedelivers.com,NULL,NULL
+KAGBRMGA,Kenan Birmingham,205-945-6760,birmingham@thekag.com,NULL,NULL
+KAGCAL,KAG California,800-643-4545 x6,kgwlb@thekag.com,NULL,NULL
+KAGCOLMS,KAG Collins,470-395-0616,atlanta@ttedelivers.com,Jeff Baggett  ,Cell 601-517-2021
+KAGCOLMS,Kenan Collins,800-278-1615,collins@thekag.com,Jeff Baggett  ,Cell 601-517-2021
+KAGDORGA,Kenan Doraville,800-343-8814,doraville@thekag.com,NULL,NULL
+KAGMACGA,Kenan Macon,800-343-8814,doraville@thekag.com,NULL,NULL
+KAGMOBAL,Kenan Mobile,800-739-9874,mobile@thekag.com,Steve Schwinden,Cell 251--538-7916
+KAGMPHTN,Kenan Memphis,800-825-7789,Memphis@thekag.com,Janet Latham,Cell 615-642-0708
+KAGMPHTN,Kenan Tennessee,800-825-7789,Memphis@thekag.com; Memphis@thekag.com,Janet Latham,Cell 615-642-0708
+KAGPHXAZ,KAG Phoenix,602-278-9247,kgwphx@thekag.com,Blane Moore,Cell 602-363-1484
+KAGROAVA,Kenan Roanoke,540-982-2593,roanoke@thekag.com,Ron Payne,Cell 540- 525-0594
+KAGSHRLA,KAG Shreveport,903-593-5977,tyler@texastranseastern.com,Alan Leach,Cell 318-658-8003
+KAGSHRLA,Kenan Shreveport,318-682-5822,shreveport@thekag.com,Alan Leach,Cell 318-658-8003
+KAGSLMNC,Kenan Selma,919-965-8116,selma@thekag.com,NULL,NULL
+KAGTMPFL,Kenan Orlando,800-343-1361,NULL,NULL,NULL
+KAGTMPFL,Kenan Tampa,800-343-8812,tampa@thekag.com,NULL,NULL
+KAGTUCAZ,KAG Tucson,602-278-9247,phxdisp@thekag.com,Blane Moore,Cell 602-363-1484
+KAGVEGNV,KAG Vegas,800-366-8240 x1 x3; 1-800-969-9247,kgwws@thekag.com,Mitch Boone,Direct 702-644-6366
+KAGWAS,KAG Washington,253-248-1178,kgw-wadispatch@thekag.com,Jim Aronhalt,Cell 253-307-5112
+KEYSTN,Keystone,(678) 547-9790,dispatch@keystonepetroleum.com,NULL,NULL
+KLMCHIL,Klemm Chicago,800-236-1155 x3909,ktlchicago@klemmtanklines.com,Kyle Matting,Cell 920-241-9929
+KLMCHIL,Klemm North Chicago,800-236-1155 x3907,Northchicagodispatch@klemmtanklines.com; ktlchicago@klemmtanklines.com,Kyle Matting,Cell 920-241-9929
+KLMCHIL,Klemm South Chicago,800-236-1155 x3909,SouthChicagoDispatch@KlemmTanklines.com,Kyle Matting,Cell 920-241-9929
+KLMDECA,Klemm Decatur,800-634-6899,ktlcil@klemmtanklines.com,Brent Hood,Direct 800-236-1155 ext 1098
+KLMMUNIN,Klemm Muncie,800-236-1155 x3917,KTLINDY@klemmtanklines.com,Brent Hood,Direct 800-236-1155 ext 1098
+KLMNWSIL,Klemm Newton South,800-500-4271,ktlsouth@klemmtanklines.com,Brent Hood,Direct 800-236-1155 ext 1098
+KLMRCKIL,Klemm Rockford,800-236-1155 x3912,Rockforddispatch@klemmtanklines.com,Jeff Miller,Cell 815-299-9200
+KLMTRIIL,Klemm Tristar,800-236-1155 x3910,KTLCIL@klemmtanklines.com,Jeff Miller,Cell 815-299-9200
+MANSOI,Mansfield Oil,800-695-6623,dispatch@mansfieldoil.com,NULL,NULL
+MAPCO,Mapco,(615)-994-0601,fueldispatch@mapcoexpress.com,NULL,NULL
+MISSTX,Mission Texas,800-737-9987,Corpus Gas <corpuschristi@mipe.com>,NULL,NULL
+NITRO,Nitro,504-416-1469,"nitro1301@icloud.com, pkbbt@aol.com",NULL,NULL
+NPT,NPT,812-379-9227,nptdispatch@circlek.com,NULL,NULL
+PACTRCO,PAC Trucking,815-939-3232,dispatch@pactrucking.net,NULL,NULL
+PCT,Pacific Tank Lines California,951-680-9890 x2,dispatch@pacifictanklines.com,NULL,NULL
+PENNTA,Penn Birmingham,800-634-8467,birminghamdispatch@penntanklines.com,NULL,NULL
+PENNTA,Penn Doraville,888-447-7107,doraville@penntanklines.com,NULL,NULL
+PENNTA,Penn Georgia,888-447-7107,doravilledispatch@penntanklines.com,NULL,NULL
+PETSSE,Petrosouth,678-688-7883,fuelorders@petrosouth.com; belindalee@petrosouth.com;,NULL,NULL
+PIASA,Piasa,618-216-4525,lhines@piasa-hwrt.com,NULL,NULL
+POPCHLNC,Pope Charlotte,800-228-6981,charlottedispatch@ejpope.com,David Smallridge,Cell 704-975-8883
+POPGRNNC,Pope Greensboro,800-722-2107,selma_terminal@ejpope.com,Mike Denning,Direct 919-965-4800 ext 6
+POPNAUG,Pope Augusta,800-835-1415,pope_n_augusta@ejpope.com,Eric Varner ,Cell 762-383-4052
+POPSAVGA,Pope Savannah,800-228-6981,pope_n_augusta@ejpope.com,Eric Varner ,Cell 762-383-4052
+POPSELNC,Pope Selma,800-722-2107 x6,selma_terminal@ejpope.com,Mike Denning,Direct 919-965-4800 ext 6
+POPSPRT,Pope Spartanburg,800-228-6981,charlottedispatch@ejpope.com,David Smallridge,Cell 704-975-8883
+PROPAZ,Pro Petro,602-352-8121,dispatchers@propetroleum.com,NULL,NULL
+PTCAUG,PTC Augusta,800-345-4955,northaugusta@petroleumtransport.com,James Davis,NULL
+PTCGRN,PTC Greensboro,800-334-5508,greensboro@petroleumtransport.com,Jason Woodall,NULL
+PTCSLM,PTC Selma,800-522-8501,selma@petroleumtransport.com,Brad Fischer,NULL
+PTLSA,Pacific Tank Lines Atlanta,951-680-1900,dispatch@pacifictanklines.com,NULL,NULL
+QUALGC,Quality,800-734-6570,ddunn@qualitydistribution.com,Doug Yeager,dyeager@qualitydistribution.com
+SEAY,Seay,866-732-9645,mikewells@seayoil.com; jacoblarrison@seayoil.com,NULL,bradhowell@seayoil.com
+SOLARCA,Solar California,800-890-7984 x2,cam2@solartransport.com,Perry DePhillips,Direct 800-890-7984 ext 2
+SOLARCO,Solar Colorado Springs,800-890-7984 x2,cam2@solartransport.com,Tyler DePhillips,(210) 490-1590
+SOLARMW,Solar Chicago,800-890-7984 x2,cam2@solartransport.com,NULL,NULL
+SOLARMW,Solar Indy,800-890-7984 x2,cam2@solartransport.com,NULL,NULL
+SPIRIT,Spirit,866-496-7564,dispatcher@spiritexpressllc.com,NULL,NULL
+STARCO,Star Colorado,913-396-5065,denver-dispatch@startransportllc.com,Steve Ridgley,(337) 984-8571
+STAROK,Star Oklahoma,866-855-7927,dispatch-okc@startransportllc.com,Jaime Fulgencio,(210) 614-3714
+TANDTX,Tandem,830-278-6653 x111,rusty@mydynamic.com,NULL,NULL
+TOTAL,Total Petroleum,229-400-3789,dave@inland-stores.com; chuck@inland-stores.com,NULL,NULL
+TTEBTR,TTE Baton Rouge,409-842-2695,batonrouge@ttedelivers.com; beaumont@ttedelivers.com;,NULL,870-310-1228
+TTETX,TTE Austin,210-648-1521,sanantonio@ttedelivers.com,NULL,870-310-1228
+TTETX,TTE Beaumont,409-842-2695,beaumont@texastranseastern.com,Eric Louis,elouis@ttedelivers.com
+TTETX,TTE Little Rock,501-569-9959,littlerock@ttedelivers.com,Donnie Lydixk,dlydick@texastranseastern.com
+TTETX,TTE Tyler,800-866-5977,tyler@texastranseastern.com,Seamus Burke,sburke@ttedelivers.com
+TTEVIX,TTE Atlanta,470-395-0616,atlanta@ttedelivers.com,NULL,870-310-1228
+UPTALB,UPT Albuquerque,877-500-8265,albuquerque@otl-upt.com,NULL,NULL
+UPTPHX,UPT Phoenix,602-278-0094,PHODispatch@otl-upt.com; phoenix@otl-upt.com,Jessica Henderson,Cell 480-213-0432
+UPTSH,UPT Shreveport,318-841-0240,srvdispatch@otl-upt.com,NULL,NULL
+UPTTX,UPT Houston,281-420-6906,Houston@otl-upt.com,NULL,NULL
+USHER,Usher,(770) 457-7747,usheratl@ushertransport.com,NULL,NULL
+WILLCA,Williams California,800-877-0213 ex 4,wtldispatch@williamstanklines.com,Mark Sperling,Cell 209-981-9797
+WODCO,Wodek Colorado,303-286-2674,dispatch@wodeksys.com,NULL,NULL
+WPCA,WP Tank Lines,909-204-4385,dispatch@wptanklines.com,NULL,NULL
+MCMAHN,McMahon,331-757-5979,jpmdispatch@jpmtgroup.com,NULL,NULL
+WALLAC,Wallace,404-799-9400,mwilliams@wallaceoil.net,NULL,NULL
+STARTR,Star Transport,870-336-1400,dispatch@startransportationllc.com,NULL,NULL
+TEMP_GROUP,TEMP,NULL,NULL,NULL,NULL
+ELITEFT,Elite Fuel Transport,951-274-0555,dispatch@elitefueltrans.com,NULL,NULL
+IRVINGCA  ,Irving Transports Canada  ,NULL,NULL,NULL,NULL
+SEABOARD, SEABOARD TRANSPORT  ,800-268-1207,MACS-SeaboardDispatch@seaboard.acl.ca,NULL,514-354-7141
+WSTCAN  ,Westcan  ,905-670-7002,bcfueldispatch@westcanbulk.ca  ,NULL,NULL
+UPTCA  ,UPT Canada,905-265-2344 ext #225  ,dispatch@upt.ca  ,Peter Vongemmingen,pvongemmingen@upt.ca
+LLOCK  ,Liftlock  ,705-742-4144; 844-742-4144,dispatch@liftlock.ca  ,Robb,705-741-8543
+MCDOUG  ,McDougall  ,NULL,Doug Cowell (DougCowell@mcdougallcorp.com)  ,NULL,NULL
+PHAUL  ,Paul's Hauling  ,204-633-4330  ,phlwpginventory@phl.ca  ,NULL,NULL
+SCAMP  ,Scamp  ,604-856-8211 ext 8102  ,dispatch@scamptransport.com  ,NULL,NULL
+BRIDGE  ,Bridgeway   ,250-245-2313 ext 105  ,NULL,NULL,NULL
+TRANJAC   ,Transport Jacques Auger  ,800-387-3835,dispatchmtl@tja.ca,NULL,NULL
+TRANSRMT  ,Transport RMT  ,1-844-373-0740,commis@transportsrmt.com,NULL,NULL
+TRIMAC      ,Trimac  , 1-800-378-1164 Ext.1  , poceast@trimac.com  ,NULL,NULL
+VERBRUG,Verbruggen  ,(613)354-7171    ,jvtnapanee@mycando.ca  ,NULL,NULL
+RST  ,RST, 1-877-398-7202 Ext 1, poceast@trimac.com  ,NULL,NULL
+MACEWEN,MacEwen  ,NULL,NULL,NULL,NULL
+PETROCA,PetroCan  ,NULL,NULL,NULL,NULL
+PIONEER,Pioneer,NULL,NULL,NULL,NULL
+ULTRAMAR,Ultramar  ,NULL,NULL,NULL,NULL
+MFPFUEL    ,MFP Fuel  ,NULL,NULL,NULL,NULL
+XTREME,Xtreme Trucking,720-921-4319,longmonttruckstop@yahoo.com,NULL,NULL
+SEABOARD,Seaboard- Manteli's   ,403-531-1600  ,calgary.dispatch@manteis.com  ,NULL,NULL
+SEABOARD,Seaboard- Wiebe   ,1-800-661-5475  ,retail.dispatch@wiebetransport.com  ,NULL,NULL
+WSTCAN,Westcan Bulk   Alberta,1-800-663-1218; eta line 888-651-5402 ext# 5,abfueldispatch@westcanbulk.ca  ,NULL,NULL
+DUPRTX,Dupre Houston,866-756-9981,dispatchhu@duprelogistics.com,NULL,NULL
+COASTTX,Coastal Beaumont,800-323-4701,portarthur@coastaltransport.com,Sissy Smith,sissy.smith@coastaltransport.com
+COASTTX,Coastal Fort Worth,800-633-2808,Fortworth.dispatch@coastaltransport.com,Tammy White,tammy.white@coastaltransport.com
+COASTTX,Coastal Hearne,(800) 392-4894,hearne.dispatch@coastaltransport.com,James Thompson,james.thompson@coastaltransport.com
+COASTTX,Coastal Houston,800-392-4147,houston.dispatch@coastaltransport.com,Andrew Baca,Andrew.baca@coastaltransport.com
+GROEN,Groendyke Colorado Springs,800-298-0252,coloradosprings@groendyke.com,Bre Rumage,brumage@groendyketransport.com
+GROEN,Groendyke El Paso,800-852-6701,elpasomastersterminal@groendyke.com,Sergio Rivas,srivas@groendyketransport.com
+GROEN,Groendyke G. Junction,800-221-3749,gjct@groendyke.com,Shane Tuck,stuck@groendyke.com
+GROEN,Groendyke Las Cruces,915-772-1922,elpasomastersterminal@groendyke.com,Sergio Rivas,srivas@groendyketransport.com
+MISSTX,Mission Austin,800-737-9980,austin@mipe.com,Keith Gabreleski,kgabreleski@mipe.com
+MISSTX,Mission Corpus,800-737-9982,corpus@mipe.com,Adam Newcomer,anewcomer@mipe.com
+MISSTX,Mission Dallas,800-737-9986,arlingtondispatch@mipe.com,Russ Kramer,rkramer@mipe.com
+MISSTX,Mission Harlingen,210-225-3200,sadispatch@mipe.com,Danny Robison,drobison@mipe.com
+MISSTX,Mission Houston,800-737-9988,housgas@mipe.com,John Payne,jpayne@mipe.com
+MISSTX,Mission San Antonio,210-225-3200,sadispatch@mipe.com,Danny Robison,drobison@mipe.com
+MISSTX,Mission Waco,800-737-9980,austin@mipe.com,Keith Gabreleski,kgabreleski@mipe.com
+TTETX,TTE Corpus,210-648-9236,sanantonio@ttedelivers.com,Demond Scarborough,dscarborough@texastranseastern.com
+TTETX,TTE Dallas,214-204-0106,dfw@texastranseastern.com,William Carr,wcarr@texastranseastern.com
+TTETX,TTE Houston,800-580-8579 xt 4,houston@texastranseastern.com,Jeff Bolner,jbolner@texastranseastern.com
+TTETX,TTE San Antonio,210-648-9236,sanantonio@ttedelivers.com,Demond Scarborough,dscarborough@texastranseastern.com
+TTETX,TTE Waco,979-704-6142,bryan@ttedelivers.com,Chantry Colston,ccolston@ttedelivers.com
+UPTTX,UPT San Antonio,210-648-0582,SANDispatch@otl-upt.com,Robert Esquivel,resquivel@otl-upt.com
+ALNYE,Alnye Trucking,315-497-3329,dan.kinney@alneytrucking.com,Brian Nye,Brian.nye@alneytrucking.com
+ARG,Arg Trucking,800-462-6417,bergen.dispatch@wadhams.com,Scott Minde,scott.minde@wadhams.com
+BLUOX,Blueox Corp,800-723-2583,N/A,Mike Familaro,mtf@bleuoxenergy.com
+PCT,Fastrac,315-552-6800 ext 2170,N/A,N/A,N/A
+PCT,PCT Denver,972-380-3702,pct-colorado@thekag.com,Jason Lindsey,jason.lindsey@thekag.com
+PROGSTR,Progressive Trans,580-341-8605,dispatch@pefuel.com,Darren Mayo,darren@pefuel.com
+STIDENV,STI Denver,(720) 275-9504,N/A,Tami Whisenand,dispatch@stidenver.com
+Groen,Groendyke Artesia,575-746-2741,gti.arta@groendyke.com,Teresa Mann,tmann@groendyke.com
+SOLARCO,Solar Denver,800-397-9015,cam4@solartransport.com,Tyler DePhillips,tjd@solartransport.com
+STARTR,Star Transportation Jonesboro,866-413-7827,dispatch@startransportationllc.com,Brad Heringer,
+STARTR,Star Transportation San Antonio,866-413-7827,dispatch2@startransportationllc.com,Jaime Fulgencio,
+STAROK,Star Fuel Denver,913-396-5059,dispatch-denver@starfuel.com,Steve Ridgley,sridgley@starfuel.com
+SEABOARD,Seaboard Harmac,514-354-7141,fthibodeau@seaboard.acl.ca,NULL,NULL
+PITTMAN,Pittman Transport,704-756-7269,M.Pittman@mpittman.net ,E Guzzo,EGuzzo@mpittman.net
+FSX,Fuel South Express,912-614-2961,fsdispatch@fuelsouth.com,NULL,NULL
+GRW Transport,GRW Transport,NULL,dispatch@grwtransport.com,Lissa Chenier,lissachenier@grwtransport.com
+Frew Liquid Transfer,Frew Liquid Transfer,1-877-553-3739,fltdispatch@frewliquid.com,Brad Beckstead,bradb@frewliquid.com
+Wieve Transport,Wieve Transport,780-467-3414,retail.dispatch@wievetransport.com,NULL,NULL
+CULL,Cullman Petroleum,256-287-1034,cs@cullmanpetroleum.com,NULL,NULL
+PCTHOU,PCT Houston,972-380-7595,pct-fuelorders@thekag.com,Bryan Kindred,NULL
+GROEN,Groendyke Hutch,620-662-7281,gti.htchfuel@groendyke.com,Joe Fasching,NULL
+Unknown,Carl Beaulac,866-693-2202; 418-835-1414,mariolabbe@beaulactransport.com,NULL,NULL
+NULL,GHL Transport,514-351-4501,cjgoulet@ghltransport.com,NULL,NULL
+NULL,J.N. Poirier & Fils,514-954-8575; 450-547-8349,benoit@jnpoirieretfils.com,NULL,NULL
+NULL,Lavoie/DNB Transport,418-661-6981,repartition@transportlavoie.ca,NULL,NULL
+NULL,Transport Luc et Serge Trudel,819-355-9001,luctrudel66@hotmail.com,NULL,NULL
+DUPRETN,Dupre Tennessee,800-865-7268,dispatchna@duprelogistics.com,NULL,NULL
+WPTKAZ,WP Tank Lines AZ,928-304-0047,gbarnett@wptanklines.com,Garry Barnett,gbarnett@wptanklines.com
+LEWIS,Lewis Transportation,859-485-2111,Dispatch-walton@lewistransportinc.com,NULL,NULL

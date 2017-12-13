@@ -7,11 +7,30 @@
     <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track': 'reload' %>
     <%= javascript_include_tag 'application', 'data-turbolinks-track': 'reload' %>
   </head>
-  <nav>
-    <%= render "shared/topmenu" %>
-  </nav>
 
+<div class="outer">
+  <header>
+    This is ze Header
+  </header>
+  
+  <div class="middle">
   <body>
-    <%= yield %>
-  </body>
+    <nav>
+      <%= render "shared/topmenu" %>
+    </nav>
+  
+      <%= render "shared/storeSideMenu" %>
+
+  <div class="inner">
+      <article>
+        <%= yield %>
+      </article>
+    
+    </div>
+    </body>
+    </div>
+    <footer>
+      This is ze Footer
+    </footer>
+    </div>
 </html>

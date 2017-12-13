@@ -1,0 +1,25 @@
+<h2>Results of the search action will render in a table here.</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Store</th>
+      <th>Region</th>
+      <th>Carrier</th>
+      <th>User</th>
+    </tr>
+  </thead>
+
+  <tbody>
+    <% @outages.each do |outage| %>
+      <tr>
+        <td><%= outage.store.site_id %></td>
+        <td><%= outage.store.region.name %></td>
+        <td><%= outage.carrier.description %></td>
+        <td><%= outage.user.first_name %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+

@@ -1,6 +1,26 @@
 class OutagesController < ApplicationController
   before_action :set_outage, only: [:show, :edit, :update, :destroy]
 
+  #my shit here
+  def search
+    
+  end
+
+  def results
+    if params[:searchType].to_s=='Site' then
+      @outages=Store.find_by_site_id(params[:searchString]).outages
+    else if params[:searchType].to_s=='Carrier' then
+      @outages=Carrier.find_by_description(params[:searchString]).outages
+    else if params[:searchType].to_s=='User' then
+      @outages=User.find_by_last_name(params[:searchString]).outages
+    else
+      @stores=Region.find_by_name(params[:searchString]).stores
+      @stores.each do |st|
+        @outages << st.outages
+      end
+    end
+  end
+
   # GET /outages
   # GET /outages.json
   def index

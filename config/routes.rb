@@ -1,10 +1,14 @@
 Rails.application.routes.draw do
-  resources :outages
-  resources :stores
-  # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
-  get '/test', to: 'stores#search', as: 'store_search'
-  get '/test/result', to: 'stores#result'
+  root to: 'home#index'
 
-  get '/outage_search', to: 'outages#search', as: 'outage_search'
-  get '/outage_search/results', to: 'outages#results'
+  get '/home', to: 'home#index', as: 'home'
+  get '/home/settings', to: 'home#settings', as: 'home_settings'
+
+  get '/stores', to: 'stores#index', as: 'stores'
+  get '/stores/results', to: 'stores#results', as: 'store_search_results'
+  get '/stores/:id', to: 'stores#show', as: 'store'
+  post '/stores/results', to: 'stores#results', as: 'store_search'
+
+  get '/outages', to: 'outages#index', as: 'outages'
+
 end

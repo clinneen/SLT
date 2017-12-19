@@ -1,0 +1,21 @@
+<h1><%= "#{@stores.size} records found" %></h1>
+
+<table>
+  <tr>
+    <th>Site ID</th>
+    <th>Address</th>
+    <th>City</th>
+    <th>State</th>
+  </tr>
+
+  <% @stores.each do |store| %>
+    <tr>
+      <td><%= store.site_id %></td>
+      <td><%= store.address %></td>
+      <td><%= store.city %></td>
+      <td><%= store.state %></td>
+      <td><%= link_to 'Details', store_path(store.id) %></td>
+    </tr>
+  <% end %>
+
+</table>

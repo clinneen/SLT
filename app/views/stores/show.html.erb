@@ -1,37 +1,138 @@
-<p id="notice"><%= notice %></p>
+<table>
+  <th colspan="2">Store Information</th>
+  <tr>
+    <th>ID</th>
+    <td><%= @store.site_id %></td>
+  </tr>
+  <tr>
+    <th>Address</th>
+    <td><%= @store.address %></td>
+  </tr>
+  <tr>
+    <th>City</th>
+    <td><%= @store.city %></td>
+  </tr>
+  <tr>
+    <th>State</th>
+    <td><%= @store.state %></td>
+  </tr>
+  <tr>
+    <th>Phone</th>
+    <td><%= @store.phone %></td>
+  </tr>
+  <tr>
+    <th>Email</th>
+    <td><%= @store.email %></td>
+  </tr>
+  <tr>
+    <th>Brand</th>
+    <td><%= @store.brand %></td>
+  </tr>
+  <tr>
+    <th>Supplier</th>
+    <td><%= @store.supplier %></td>
+  </tr>
+  <tr>
+    <th>Miles to Rack</th>
+    <td><%= @store.miles %></td>
+  </tr>
+  <tr>
+    <th>Market Manager/DBM</th>
+    <td><%= @store.mm_dbm %></td>
+  </tr>
+  <tr>
+    <th>Manager Contact</th>
+    <td><%= @store.manager_phone %></td>
+  </tr>
+  <tr>
+    <th>Co-Op/Dealer</th>
+    <td><%= @store.co_de %></td>
+  </tr>
+  <tr>
+    <th>Active</th>
+    <td><%= @store.active %></td>
+  </tr>
+  
+ 
+  <th colspan="2">Carrier Information</th>
+  <tr>
+    <th>Name</th>
+    <td><%= @store.carrier.description %></td>
+  </tr>
+  <tr>
+    <th>TMW ID</th>
+    <td><%= @store.carrier.name %></td>
+  </tr>
+  <tr>
+    <th>Phone</th>
+    <td><%= @store.carrier.phone %></td>
+  </tr>
+  <tr>
+    <th>Email</th>
+    <td><%= @store.carrier.email %></td>
+  </tr>
+  <tr>
+    <th>Operations Manager</th>
+    <td><%= @store.carrier.ops_manager %></td>
+  </tr>
+  <tr>
+    <th>Manager Contact</th>
+    <td><%= @store.carrier.manager_contact %></td>
+  </tr>
 
-<p>
-  <%= label_tag 'site_id', 'Site Code', class: 'field_label' %>
-  <%= @store.site_id %>
-  <%= label_tag 'phone', 'Phone', class: 'field_label' %>
-  <%= @store.phone %>
-  <%= label_tag 'address', 'Address', class: 'field_label'%>
-  <%= @store.address %>
-  <%= label_tag 'city', 'City', class: 'field_label' %>
-  <%= @store.city %>
-  <%= label_tag 'state', 'State', class: 'field_label' %>
-  <%= @store.state %>
-  <%= label_tag 'brand', 'Brand', class: 'field_label' %>
-  <%= @store.brand %>
-  <%= label_tag 'supplier', 'Supplier', class: 'field_label' %>
-  <%= @store.supplier %>
-  <%= label_tag 'loading_numbers', 'Loading Numbers', class: 'field_label' %>
-  <%= @store.loading_numbers %>
-  <%= label_tag 'mm_dbm', 'Market Manager/DBM', class: 'field_label' %>
-  <%= @store.mm_dbm %>
-  <%= label_tag 'manager_phone', 'Manager Phone', class: 'field_label' %>
-  <%= @store.manager_phone %>
-  <%= label_tag 'notes', 'Notes', class: 'field_label' %>
-  <%= @store.notes %>
-  <%= label_tag 'miles', 'Miles to Terminal', class: 'field_label' %>
-  <%= @store.miles %>
-  <%= label_tag 'co_de', 'Co-op or Dealer', class: 'field_label' %>
-  <%= @store.co_de %>
-  <%= label_tag 'active', 'Active Store', class: 'field_label' %>
-  <%= @store.active %>
-  <%= label_tag 'email', 'Email', class: 'field_label' %>
-  <%= @store.email %>
-</p>
+ 
+  <th colspan="2">Rack Information</th>
+  <tr>
+    <th>Name</th>
+    <td><%= @store.shipper.description %></td>
+  </tr>
+  <tr>
+    <th>TMW ID</th>
+    <td><%= @store.shipper.name %></td>
+  </tr>
+  <tr>
+    <th>Address</th>
+    <td><%= @store.shipper.address %></td>
+  </tr>
+  <tr>
+    <th>City</th>
+    <td><%= @store.shipper.city %></td>
+  </tr>
+  <tr>
+    <th>State</th>
+    <td><%= @store.shipper.state %></td>
+  </tr>
+  <tr>
+    <th>TCN</th>
+    <td><%= @store.shipper.tcn %></td>
+  </tr>
 
-<%= link_to 'Edit', edit_store_path(@store) %> |
+
+  <th colspan="2">Business Unit Information</th>
+  <tr>
+    <th>Region</th>
+    <td><%= @store.region.name %></td>
+  </tr>
+  <tr>
+    <th>Fuel Director</th>
+    <td><%= @store.region.fd %></td>
+  </tr>
+  <tr>
+    <th>Fuel Director Phone</th>
+    <td><%= @store.region.fd_phone %></td>
+  </tr>
+  <tr>
+    <th>Fuel Director Email</th>
+    <td><%= @store.region.fd_email %></td>
+  </tr>
+  <tr>
+    <th>Fuel Analyst</th>
+    <td><%= @store.region.fa %></td>
+  </tr>
+  <tr>
+    <th>Fuel Analyst Contact</th>
+    <td><%= @store.region.fa_contact %></td>
+  </tr>
+</table>
+
 <%= link_to 'Back', stores_path %>

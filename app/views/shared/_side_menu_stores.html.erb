@@ -1,0 +1,13 @@
+<div>
+  <ul class="storeSideMenu">
+    <li>
+      <div class="searchbar">
+        <%= form_tag(store_search_path, id:"store_search_form") do %>
+          <%= label_tag "site_id", "Store Search" %>
+          <%= text_field_tag 'searchString' %>
+          <%= submit_tag "Find", :name => nil %>
+        <% end %>
+      </div>
+    </li>
+  </ul>
+</div>

@@ -5,7 +5,7 @@ class StoresController < ApplicationController
 
   #Search results for multiple items.
   def results
-    @stores=Store.where("site_id like ?","%#{params[:searchString]}%")
+    @stores=Store.search(params[:searchString])
     
     if @stores.blank? then
       redirect_to 'index'
@@ -23,4 +23,15 @@ class StoresController < ApplicationController
   def show
     @store=Store.find(params[:id])
   end
+
+
+
+
+
+  private
+
+    # Never trust parameters from the scary internet, only allow the white list through.
+    def store_params
+      params.require(:store).permit(:site_id, :city, :state, :notes, :co_de)
+    end 
 end

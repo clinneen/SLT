@@ -1,93 +1,80 @@
 class OutagesController < ApplicationController
-  before_action :set_outage, only: [:show, :edit, :update, :destroy]
-
   #my shit here
-  def search
-    
-  end
-
   def results
-    if params[:searchType].to_s=='Site' then
-      @outages=Store.find_by_site_id(params[:searchString]).outages
-    else if params[:searchType].to_s=='Carrier' then
-      @outages=Carrier.find_by_description(params[:searchString]).outages
-    else if params[:searchType].to_s=='User' then
-      @outages=User.find_by_last_name(params[:searchString]).outages
-    else
-      @stores=Region.find_by_name(params[:searchString]).stores
-      @stores.each do |st|
-        @outages << st.outages
-      end
+    @outages=Outage.search([params[:searchString],params[:start_date],params[:end_date],params[:region_selection]])
+    
+    if @outages.blank? then
+      redirect_to outages_path, notice: 'No Results'
+      return
     end
+
+    if @outages.size==1 then
+      redirect_to outage_path(@outages[0].id)
+    else
+      render 'results'
+    end 
   end
 
-  # GET /outages
-  # GET /outages.json
   def index
-    @outages = Outage.all
   end
 
   # GET /outages/1
   # GET /outages/1.json
   def show
+    @outage=Outage.find(params[:id])
   end
 
   # GET /outages/new
-  def new
-    @outage = Outage.new
-  end
+  #def new
+  #  @outage = Outage.new
+  #end
 
   # GET /outages/1/edit
-  def edit
-  end
-
+#  def edit
+# end
+#
   # POST /outages
   # POST /outages.json
-  def create
-    @outage = Outage.new(outage_params)
-
-    respond_to do |format|
-      if @outage.save
-        format.html { redirect_to @outage, notice: 'Outage was successfully created.' }
-        format.json { render :show, status: :created, location: @outage }
-      else
-        format.html { render :new }
-        format.json { render json: @outage.errors, status: :unprocessable_entity }
-      end
-    end
-  end
+#  def create
+#    @outage = Outage.new(outage_params)
+#
+  #  respond_to do |format|
+  #    if @outage.save
+  #      format.html { redirect_to @outage, notice: 'Outage was successfully created.' }
+  #      format.json { render :show, status: :created, location: @outage }
+  #    else
+  #      format.html { render :new }
+  #      format.json { render json: @outage.errors, status: :unprocessable_entity }
+  #    end
+  #  end
+  #end
 
   # PATCH/PUT /outages/1
   # PATCH/PUT /outages/1.json
-  def update
-    respond_to do |format|
-      if @outage.update(outage_params)
-        format.html { redirect_to @outage, notice: 'Outage was successfully updated.' }
-        format.json { render :show, status: :ok, location: @outage }
-      else
-        format.html { render :edit }
-        format.json { render json: @outage.errors, status: :unprocessable_entity }
-      end
-    end
-  end
+  #def update
+  #  respond_to do |format|
+  #    if @outage.update(outage_params)
+  #      format.html { redirect_to @outage, notice: 'Outage was successfully updated.' }
+  #      format.json { render :show, status: :ok, location: @outage }
+  #    else
+  #      format.html { render :edit }
+  #      format.json { render json: @outage.errors, status: :unprocessable_entity }
+  #    end
+  #  end
+  #end
 
   # DELETE /outages/1
   # DELETE /outages/1.json
-  def destroy
-    @outage.destroy
-    respond_to do |format|
-      format.html { redirect_to outages_url, notice: 'Outage was successfully destroyed.' }
-      format.json { head :no_content }
-    end
-  end
+  #def destroy
+  #  @outage.destroy
+  #  respond_to do |format|
+  #    format.html { redirect_to outages_url, notice: 'Outage was successfully destroyed.' }
+  #    format.json { head :no_content }
+  #  end
+  #end
 
   private
-    # Use callbacks to share common setup or constraints between actions.
-    def set_outage
-      @outage = Outage.find(params[:id])
-    end
 
-    # Never trust parameters from the scary internet, only allow the white list through.
     def outage_params
       params.require(:outage).permit(:notes)
     end

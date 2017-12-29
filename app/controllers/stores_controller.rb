@@ -8,13 +8,13 @@ class StoresController < ApplicationController
     @stores=Store.search(params[:searchString])
     
     if @stores.blank? then
-      redirect_to 'index'
+      redirect_to stores_path, notice: 'No Results'
       return
     end
 
     if @stores.size==1 then
       @store=@stores[0]
-      render 'result'
+      redirect_to store_path(@store.id)
     else
       render 'results'
     end 
@@ -24,9 +24,20 @@ class StoresController < ApplicationController
     @store=Store.find(params[:id])
   end
 
+  def edit
+  end
 
+  def new
+  end
 
+  def create
+  end
 
+  def update
+  end
+
+  def destroy
+  end
 
   private
 

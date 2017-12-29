@@ -5,11 +5,10 @@ class Store < ApplicationRecord
   has_many    :outages
 
   def self.search(searchString)
-    if /.[0-9]{6}/ =~ searchString then
-      stores=Store.where("site_id like ?","%#{searchString}%")
-    else
-      stores=Store.where("city like :search or state like :search",{:search => "%#{searchString}%"})
-    end
+    stores=Store.where("site_id like ?","%#{searchString}%")
+    stores=Store.where("state like ?","%#{searchString}%") if stores.empty?
+    stores=Store.where("city like ?","%#{searchString}%") if stores.empty?
+    stores=Store.where("address like ?","%#{searchString}%") if stores.empty?
     stores
   end
 end

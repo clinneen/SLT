@@ -10,5 +10,8 @@ Rails.application.routes.draw do
   post '/stores/results', to: 'stores#results', as: 'store_search'
 
   get '/outages', to: 'outages#index', as: 'outages'
+  get '/outages/results', to: 'outages#results', as: 'outage_search_results'
+  get '/outage', to: 'outages#show', as: 'outage'
+  post '/outages/results', to: 'outages#results', as: 'outage_search'
 
 end

@@ -4,6 +4,7 @@
   <thead>
     <tr>
       <th>Store</th>
+      <th>Time</th>
       <th>Region</th>
       <th>Carrier</th>
       <th>User</th>
@@ -14,6 +15,7 @@
     <% @outages.each do |outage| %>
       <tr>
         <td><%= outage.store.site_id %></td>
+        <td><%= outage.outage_time %></td>
         <td><%= outage.store.region.name %></td>
         <td><%= outage.carrier.description %></td>
         <td><%= outage.user.first_name %></td>

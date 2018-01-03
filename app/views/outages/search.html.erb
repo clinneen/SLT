@@ -1,9 +1,0 @@
-<h2>Outages will be searched here by site_id, region_id, carrier_id, or user_id</h2>
-
-<div class="searchbar">
-<%= form_tag(outage_search_results_path, :method=>"get", id:"search_form") do %>
-  <%= select_tag 'searchType', options_for_select(['Site','Region','Carrier','User'], 'Site') %>
-  <%= text_field_tag :searchString %>
-  <%= submit_tag "Find", :name => nil %>
-<% end %>
-</div>

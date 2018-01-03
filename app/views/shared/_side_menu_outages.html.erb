@@ -2,7 +2,7 @@
   <ul class="outageSideMenu">
     <li>
       <div class="searchbar">
-        <%= form_tag(outage_search_path, id:"outage_search_form") do %>
+        <%= form_tag(outage_search_path, method: 'GET', id:"outage_search_form") do %>
           <%= label_tag "search", "Outage Search" %>
           <%= text_field_tag 'searchString' %>
           <%= label_tag "start_date", "Start" %>

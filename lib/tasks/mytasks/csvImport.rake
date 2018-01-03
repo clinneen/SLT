@@ -14,7 +14,7 @@ namespace :mine do
 
     count=0
     CSV.foreach(path, headers: true, encoding: 'iso-8859-1:utf-8') do |row|
-      #puts row.inspect
+      puts row.inspect
       items << mod1.new(row.to_h)
       count+=1
     end

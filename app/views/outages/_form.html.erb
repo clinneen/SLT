@@ -11,12 +11,48 @@
     </div>
   <% end %>
 
-  <div class="field">
-    <%= form.label :notes %>
-    <%= form.text_field :notes, id: :outage_notes %>
+  <div class="this">
+    <table>
+      <tr>
+        <th>Store</th>
+        <td><%= text_field_tag 'outage.store[site_id]', outage.store.site_id %></td>
+      </tr>
+      <tr>
+        <th>Carrier</th>
+        <td><%= text_field_tag 'outage.carrier[description]', outage.carrier.description %></td>
+      </tr>     
+      <tr>
+        <th>Commodity</th>
+        <td><%= text_field_tag 'outage[commodity]', outage.commodity %></td>
+      </tr>     
+      <tr>
+        <th>Volume</th>
+        <td><%= text_field_tag 'outage[volume]', outage.volume %></td>
+      </tr>    
+      <tr>
+        <th>Notes</th>
+        <td><%= text_field_tag 'outage[notes]', outage.notes %></td>
+      </tr>
+      <tr>
+        <th>Cause</th>
+        <td><%= text_field_tag 'outage[cause]', outage.cause %></td>
+      </tr>
+      <tr>
+        <th>Time of Outage</th>
+        <td><%= datetime_field 'outage[outage_time]', outage.outage_time %></td>
+      </tr>
+      <tr>
+        <th>Time of Delivery</th>
+        <td><%= datetime_field 'outage[delivery_time]', outage.delivery_time %></td>
+      </tr>
+      <tr>
+        <th>Reported Via</th>
+        <td><%= text_field_tag 'outage[reported_via]', outage.reported_via %></td>
+      </tr>
+    </table>
   </div>
 
-  <div class="actions">
+   <div class="actions">
     <%= form.submit %>
   </div>
 <% end %>

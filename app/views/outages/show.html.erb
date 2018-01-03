@@ -1,9 +1,49 @@
-<p id="notice"><%= notice %></p>
+<h2>Show Outage</h2>
 
-<p>
-  <strong>Notes:</strong>
-  <%= @outage.notes %>
-</p>
+<div class="this">
+    <table>
+      <tr>
+        <th>Store</th>
+        <td><%= @outage.store.site_id %></td>
+      </tr>
+      <tr>
+        <th>Region</th>
+        <td><%= @outage.store.region.name %></td>
+      </tr>     
+      <tr>
+        <th>Carrier</th>
+        <td><%= @outage.carrier.description %></td>
+      </tr>     
+      <tr>
+        <th>Commodity</th>
+        <td><%= @outage.commodity %></td>
+      </tr>     
+      <tr>
+        <th>Volume</th>
+        <td><%= @outage.volume %></td>
+      </tr>    
+      <tr>
+        <th>Notes</th>
+        <td><%= @outage.notes %></td>
+      </tr>
+      <tr>
+        <th>Cause</th>
+        <td><%= @outage.cause %></td>
+      </tr>
+      <tr>
+        <th>Time of Outage</th>
+        <td><%= @outage.outage_time %></td>
+      </tr>
+      <tr>
+        <th>Time of Delivery</th>
+        <td><%= @outage.delivery_time %></td>
+      </tr>
+      <tr>
+        <th>Reported Via</th>
+        <td><%= @outage.reported_via %></td>
+      </tr>
+    </table>
+  </div>
 
 <%= link_to 'Edit', edit_outage_path(@outage) %> |
 <%= link_to 'Back', outages_path %>

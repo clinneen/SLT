@@ -1,4 +1,4 @@
-<h2>Results of the search action will render in a table here.</h2>
+<h1><%= "#{@outages.size} records found" %></h1>
 
 <table>
   <thead>
@@ -19,6 +19,8 @@
         <td><%= outage.store.region.name %></td>
         <td><%= outage.carrier.description %></td>
         <td><%= outage.user.first_name %></td>
+        <td><%= link_to "Show", outage_path(outage.id) %></td>
+        <td><%= link_to "Edit", edit_outage_path(outage.id) %></td>
       </tr>
     <% end %>
   </tbody>

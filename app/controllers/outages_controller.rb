@@ -30,38 +30,40 @@ class OutagesController < ApplicationController
   #end
 
   # GET /outages/1/edit
-#  def edit
-# end
-#
+  def edit
+    @outage=Outage.find(params[:id])
+  end
+
   # POST /outages
   # POST /outages.json
-#  def create
-#    @outage = Outage.new(outage_params)
-#
-  #  respond_to do |format|
-  #    if @outage.save
-  #      format.html { redirect_to @outage, notice: 'Outage was successfully created.' }
-  #      format.json { render :show, status: :created, location: @outage }
-  #    else
-  #      format.html { render :new }
-  #      format.json { render json: @outage.errors, status: :unprocessable_entity }
-  #    end
-  #  end
-  #end
+  def create
+    @outage = Outage.new(outage_params)
+
+    respond_to do |format|
+      if @outage.save
+        format.html { redirect_to @outage, notice: 'Outage was successfully created.' }
+        format.json { render :show, status: :created, location: @outage }
+      else
+        format.html { render :new }
+        format.json { render json: @outage.errors, status: :unprocessable_entity }
+      end
+    end
+  end
 
   # PATCH/PUT /outages/1
   # PATCH/PUT /outages/1.json
-  #def update
-  #  respond_to do |format|
-  #    if @outage.update(outage_params)
-  #      format.html { redirect_to @outage, notice: 'Outage was successfully updated.' }
-  #      format.json { render :show, status: :ok, location: @outage }
-  #    else
-  #      format.html { render :edit }
-  #      format.json { render json: @outage.errors, status: :unprocessable_entity }
-  #    end
-  #  end
-  #end
+  def update
+    @outage=Outage.find(params[:id])
+    respond_to do |format|
+      if @outage.update(outage_params)
+        format.html { redirect_to @outage, notice: 'Outage was successfully updated.' }
+        format.json { render :show, status: :ok, location: @outage }
+      else
+        format.html { render :edit }
+        format.json { render json: @outage.errors, status: :unprocessable_entity }
+      end
+    end
+  end
 
   # DELETE /outages/1
   # DELETE /outages/1.json
@@ -76,6 +78,6 @@ class OutagesController < ApplicationController
   private
 
     def outage_params
-      params.require(:outage).permit(:notes)
+      params.require(:outage).permit(:store_id, :carrier_id, :commodity, :notes, :cause, :volume, :outage_time, :delivery_time, :reported_via, :user_id)
     end
 end
